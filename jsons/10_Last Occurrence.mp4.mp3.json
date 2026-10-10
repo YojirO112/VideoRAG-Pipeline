@@ -1,0 +1,621 @@
+{
+    "chunks": [
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 0.0,
+            "end": 6.2,
+            "text": " Next question is not the first occurrence but the last occurrence."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 6.2,
+            "end": 9.040000000000001,
+            "text": " What is the meaning of the last occurrence of an element?"
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 9.040000000000001,
+            "end": 12.040000000000001,
+            "text": " Let's make the same array once again."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 14.8,
+            "end": 17.400000000000002,
+            "text": " We have to find out for key is equal to 5."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 17.400000000000002,
+            "end": 21.0,
+            "text": " The key that exists in this array has two indexes."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 21.0,
+            "end": 25.0,
+            "text": " One is i is equal to 4, one is i is equal to 7."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 25.0,
+            "end": 28.0,
+            "text": " We have to return last occurrence this time."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 28.0,
+            "end": 31.0,
+            "text": " This is the first occurrence, second occurrence."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 31.0,
+            "end": 34.0,
+            "text": " If there is no other occurrence then this is the last occurrence."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 34.0,
+            "end": 36.0,
+            "text": " So we have to return 5."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 36.0,
+            "end": 39.0,
+            "text": " What will we do this time? We will reverse the process this time."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 39.0,
+            "end": 42.0,
+            "text": " What did we do to remove the first occurrence?"
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 42.0,
+            "end": 45.0,
+            "text": " First we compared it with ourselves."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 45.0,
+            "end": 48.0,
+            "text": " We compared it with self."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 48.0,
+            "end": 52.0,
+            "text": " Then we looked ahead. Look forward."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 52.0,
+            "end": 57.0,
+            "text": " If I had done it, if I had done it on the index, then it would be my first occurrence."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 57.0,
+            "end": 61.0,
+            "text": " Then the index that is next is not needed to check me."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 61.0,
+            "end": 67.0,
+            "text": " If I had to remove the first occurrence, then why should I check the next one in the array?"
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 67.0,
+            "end": 71.0,
+            "text": " Because the next occurrence will be the second, third, fourth occurrence."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 71.0,
+            "end": 73.0,
+            "text": " I have to return the first occurrence."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 73.0,
+            "end": 76.0,
+            "text": " But we have to do the opposite strategy this time."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 76.0,
+            "end": 77.0,
+            "text": " What is the strategy to use?"
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 77.0,
+            "end": 79.0,
+            "text": " First we will look ahead."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 79.0,
+            "end": 80.0,
+            "text": " First look forward."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 80.0,
+            "end": 82.0,
+            "text": " Then compare with self."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 82.0,
+            "end": 90.0,
+            "text": " This time we have to see that first I look ahead at any index from my index."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 90.0,
+            "end": 94.0,
+            "text": " If I get ahead, then it will be my last occurrence."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 94.0,
+            "end": 96.0,
+            "text": " I have to return it to myself."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 96.0,
+            "end": 99.0,
+            "text": " Suppose I did not get ahead, then I will look ahead."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 99.0,
+            "end": 102.0,
+            "text": " But if I get ahead, then I got a bigger occurrence than myself."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 102.0,
+            "end": 105.0,
+            "text": " And I have to return the last occurrence."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 105.0,
+            "end": 109.0,
+            "text": " I hope this thing will be clear that this time there will be no comparison with 5."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 109.0,
+            "end": 113.0,
+            "text": " First there will be a comparison with 5 after 5."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 113.0,
+            "end": 120.0,
+            "text": " If after 5, we get 5 on 7, then we will return 7 as our last occurrence."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 120.0,
+            "end": 124.0,
+            "text": " Then there will be no comparison with 4."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 124.0,
+            "end": 128.0,
+            "text": " Suppose there was 8 here and no 5 would exist."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 128.0,
+            "end": 129.0,
+            "text": " In that case, what would we do?"
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 129.0,
+            "end": 134.0,
+            "text": " If there was 8 here, then we would have looked ahead in the next array and not found it here."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 134.0,
+            "end": 136.0,
+            "text": " Then we would have made a comparison with ourselves."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 136.0,
+            "end": 140.0,
+            "text": " In that case, this would be our first and this would be our last occurrence."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 140.0,
+            "end": 142.0,
+            "text": " That is why we return I is equal to 4."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 142.0,
+            "end": 147.0,
+            "text": " But if it exists after 5, then I is equal to 7 should be our final answer."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 147.0,
+            "end": 151.0,
+            "text": " So the approach is to look forward first, then compare with self."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 151.0,
+            "end": 153.0,
+            "text": " So we write a code for this."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 153.0,
+            "end": 156.0,
+            "text": " It will be very similar to the upper one."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 156.0,
+            "end": 160.0,
+            "text": " In fact, we copy this header."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 160.0,
+            "end": 163.0,
+            "text": " We have to return the integer index."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 163.0,
+            "end": 165.0,
+            "text": " The name of the function is last occurrence."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 165.0,
+            "end": 170.0,
+            "text": " In this, we have our array, our key and our index I."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 170.0,
+            "end": 175.0,
+            "text": " The first thing to do is to look forward."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 175.0,
+            "end": 177.0,
+            "text": " That is, we have to check with the next array."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 177.0,
+            "end": 179.0,
+            "text": " So int is found."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 179.0,
+            "end": 186.0,
+            "text": " We will call last occurrence for array, key and I plus 1."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 186.0,
+            "end": 191.0,
+            "text": " So this last occurrence will tell me whether it exists after or not."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 191.0,
+            "end": 193.0,
+            "text": " If it exists, then there will be a valid index."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 193.0,
+            "end": 197.0,
+            "text": " If it does not exist, then there will be minus 1 in this found."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 197.0,
+            "end": 199.0,
+            "text": " After that, we will check this found."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 199.0,
+            "end": 203.0,
+            "text": " If the value of this found is not equal to minus 1,"
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 203.0,
+            "end": 209.0,
+            "text": " meaning a valid index is returned, then we will return this found directly."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 209.0,
+            "end": 213.0,
+            "text": " That is, we returned the key to the index on which we got the next one."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 213.0,
+            "end": 217.0,
+            "text": " But now we will check with self."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 217.0,
+            "end": 221.0,
+            "text": " If this condition falls, then there is minus 1 in this found."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 221.0,
+            "end": 224.0,
+            "text": " If this condition does not exist in the first array, then we will check with self."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 224.0,
+            "end": 231.0,
+            "text": " If array of I is equal to equal to key, then we will return the value of I."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 231.0,
+            "end": 235.0,
+            "text": " Otherwise, we will return it from here."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 235.0,
+            "end": 238.0,
+            "text": " We can return this found."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 238.0,
+            "end": 241.0,
+            "text": " We can return minus 1 separately."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 241.0,
+            "end": 243.0,
+            "text": " And the condition will come up."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 243.0,
+            "end": 248.0,
+            "text": " In the base case, if the value of I is equal to any point of array length,"
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 248.0,
+            "end": 252.0,
+            "text": " then we have to return minus 1 in this case."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 252.0,
+            "end": 255.0,
+            "text": " We can clean this code a little more."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 255.0,
+            "end": 257.0,
+            "text": " Let's reverse this condition."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 257.0,
+            "end": 259.0,
+            "text": " How will we reverse the condition?"
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 259.0,
+            "end": 267.0,
+            "text": " If this found is equal to minus 1 and our array of I is equal to key,"
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 267.0,
+            "end": 271.0,
+            "text": " then in that case, we will return I."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 271.0,
+            "end": 276.0,
+            "text": " In the rest of the cases, we will return the value of this found."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 276.0,
+            "end": 279.0,
+            "text": " We have concise this code."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 279.0,
+            "end": 281.0,
+            "text": " What will we do in the main function?"
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 281.0,
+            "end": 284.0,
+            "text": " We will call the last occurrence instead of first occurrence."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 284.0,
+            "end": 286.0,
+            "text": " For the same values."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 288.0,
+            "end": 292.0,
+            "text": " Return is I. This time index I is equal to 7."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 292.0,
+            "end": 296.0,
+            "text": " If I change this array a little bit, 5, 5, 5, 5, 5."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 296.0,
+            "end": 298.0,
+            "text": " What will return this time?"
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 298.0,
+            "end": 302.0,
+            "text": " This time return will be last index which is equal to 3."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 302.0,
+            "end": 305.0,
+            "text": " Now the full code of last occurrence."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 305.0,
+            "end": 309.0,
+            "text": " For this, you have to do stack analysis yourself to see"
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 309.0,
+            "end": 314.0,
+            "text": " what kind of calls will be in the stack, what function call will be returned."
+        },
+        {
+            "number": "10",
+            "title": "Last Occurrence.mp4",
+            "start": 314.0,
+            "end": 318.0,
+            "text": " We are taking this as a homework problem here."
+        }
+    ],
+    "text": " Next question is not the first occurrence but the last occurrence. What is the meaning of the last occurrence of an element? Let's make the same array once again. We have to find out for key is equal to 5. The key that exists in this array has two indexes. One is i is equal to 4, one is i is equal to 7. We have to return last occurrence this time. This is the first occurrence, second occurrence. If there is no other occurrence then this is the last occurrence. So we have to return 5. What will we do this time? We will reverse the process this time. What did we do to remove the first occurrence? First we compared it with ourselves. We compared it with self. Then we looked ahead. Look forward. If I had done it, if I had done it on the index, then it would be my first occurrence. Then the index that is next is not needed to check me. If I had to remove the first occurrence, then why should I check the next one in the array? Because the next occurrence will be the second, third, fourth occurrence. I have to return the first occurrence. But we have to do the opposite strategy this time. What is the strategy to use? First we will look ahead. First look forward. Then compare with self. This time we have to see that first I look ahead at any index from my index. If I get ahead, then it will be my last occurrence. I have to return it to myself. Suppose I did not get ahead, then I will look ahead. But if I get ahead, then I got a bigger occurrence than myself. And I have to return the last occurrence. I hope this thing will be clear that this time there will be no comparison with 5. First there will be a comparison with 5 after 5. If after 5, we get 5 on 7, then we will return 7 as our last occurrence. Then there will be no comparison with 4. Suppose there was 8 here and no 5 would exist. In that case, what would we do? If there was 8 here, then we would have looked ahead in the next array and not found it here. Then we would have made a comparison with ourselves. In that case, this would be our first and this would be our last occurrence. That is why we return I is equal to 4. But if it exists after 5, then I is equal to 7 should be our final answer. So the approach is to look forward first, then compare with self. So we write a code for this. It will be very similar to the upper one. In fact, we copy this header. We have to return the integer index. The name of the function is last occurrence. In this, we have our array, our key and our index I. The first thing to do is to look forward. That is, we have to check with the next array. So int is found. We will call last occurrence for array, key and I plus 1. So this last occurrence will tell me whether it exists after or not. If it exists, then there will be a valid index. If it does not exist, then there will be minus 1 in this found. After that, we will check this found. If the value of this found is not equal to minus 1, meaning a valid index is returned, then we will return this found directly. That is, we returned the key to the index on which we got the next one. But now we will check with self. If this condition falls, then there is minus 1 in this found. If this condition does not exist in the first array, then we will check with self. If array of I is equal to equal to key, then we will return the value of I. Otherwise, we will return it from here. We can return this found. We can return minus 1 separately. And the condition will come up. In the base case, if the value of I is equal to any point of array length, then we have to return minus 1 in this case. We can clean this code a little more. Let's reverse this condition. How will we reverse the condition? If this found is equal to minus 1 and our array of I is equal to key, then in that case, we will return I. In the rest of the cases, we will return the value of this found. We have concise this code. What will we do in the main function? We will call the last occurrence instead of first occurrence. For the same values. Return is I. This time index I is equal to 7. If I change this array a little bit, 5, 5, 5, 5, 5. What will return this time? This time return will be last index which is equal to 3. Now the full code of last occurrence. For this, you have to do stack analysis yourself to see what kind of calls will be in the stack, what function call will be returned. We are taking this as a homework problem here."
+}

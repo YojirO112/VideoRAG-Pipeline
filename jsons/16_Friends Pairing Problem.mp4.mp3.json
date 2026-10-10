@@ -1,0 +1,2791 @@
+{
+    "chunks": [
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 0.0,
+            "end": 3.84,
+            "text": " Next question is about Friends Pairing Problem."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 3.84,
+            "end": 6.44,
+            "text": " This is also a very classical problem of recursion."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 6.44,
+            "end": 9.92,
+            "text": " This problem is from a company called Goldman Sachs."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 9.92,
+            "end": 12.56,
+            "text": " The problem is that I have N friends."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 12.56,
+            "end": 14.32,
+            "text": " I have N friends."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 14.32,
+            "end": 16.240000000000002,
+            "text": " I have N number of friends."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 16.240000000000002,
+            "end": 17.32,
+            "text": " So many friends."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 17.32,
+            "end": 20.6,
+            "text": " All those friends go to a party."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 20.6,
+            "end": 22.16,
+            "text": " And what happens in a party?"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 22.16,
+            "end": 27.16,
+            "text": " Either you can stand up and eat something or you can talk to someone."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 27.32,
+            "end": 31.72,
+            "text": " As soon as we talk to someone, I give the name of the thing."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 31.72,
+            "end": 32.480000000000004,
+            "text": " Pairing."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 32.480000000000004,
+            "end": 35.92,
+            "text": " Pairing means when two people are connected and when they are talking."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 35.92,
+            "end": 38.88,
+            "text": " So either you can stand alone in a party."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 38.88,
+            "end": 42.4,
+            "text": " Or you can stand with a friend."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 42.4,
+            "end": 45.28,
+            "text": " So when you stand with a friend, you will become a pair."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 45.28,
+            "end": 49.16,
+            "text": " When you stand alone, you will be single."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 49.16,
+            "end": 51.72,
+            "text": " So this is a problem."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 51.72,
+            "end": 53.72,
+            "text": " It is given that N is friends."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 53.72,
+            "end": 57.0,
+            "text": " Either those friends can be single."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 57.0,
+            "end": 60.24,
+            "text": " Or they can pair up with some other friend."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 60.24,
+            "end": 63.16,
+            "text": " Every friend can be single."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 63.16,
+            "end": 66.84,
+            "text": " Suppose there are three people in a party."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 66.84,
+            "end": 69.32,
+            "text": " This is called A and this is called C."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 69.32,
+            "end": 71.8,
+            "text": " If A and B start talking to each other."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 71.8,
+            "end": 75.96000000000001,
+            "text": " So they can only talk to A and B can't talk to C."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 75.96000000000001,
+            "end": 78.76,
+            "text": " If we observe at one time."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 78.76,
+            "end": 83.03999999999999,
+            "text": " So if A is pairing with B, then B can't do it with anyone else."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 83.03999999999999,
+            "end": 85.2,
+            "text": " A can't do it with anyone else."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 85.28,
+            "end": 87.28,
+            "text": " So these two pair up are final."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 87.28,
+            "end": 88.84,
+            "text": " So there are some problems like this."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 88.84,
+            "end": 90.68,
+            "text": " Once you have made a pair."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 90.68,
+            "end": 93.68,
+            "text": " You can only pair with one person at a time."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 93.68,
+            "end": 97.52000000000001,
+            "text": " Find out the total number of ways in which friends can remain single or paired up."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 97.52000000000001,
+            "end": 99.92,
+            "text": " Now I have to take out total ways."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 99.92,
+            "end": 104.2,
+            "text": " In which our N friends can be standing in the party."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 104.2,
+            "end": 106.92,
+            "text": " That is, there will be single ways in this."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 106.92,
+            "end": 108.92,
+            "text": " There will be pairs of ways in this."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 108.92,
+            "end": 110.92,
+            "text": " I have to take out total."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 110.92,
+            "end": 113.48,
+            "text": " If I send N people to the party."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 113.48,
+            "end": 116.04,
+            "text": " And I have told them that either you are standing single."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 116.04,
+            "end": 118.04,
+            "text": " Or you are standing with someone."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 118.04,
+            "end": 122.44,
+            "text": " So how many ways can they be standing in that party."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 122.44,
+            "end": 125.24000000000001,
+            "text": " First let's analyze for N is equal to 1."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 125.24000000000001,
+            "end": 128.04,
+            "text": " If there is only one person in a party."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 128.04,
+            "end": 132.96,
+            "text": " Then how will that person stand in a single way."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 132.96,
+            "end": 134.32,
+            "text": " If he stands in a single way."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 134.32,
+            "end": 137.44,
+            "text": " Then what can I say that my ways will be one."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 137.44,
+            "end": 140.16,
+            "text": " That is the only way that person stands alone."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 140.16,
+            "end": 142.16,
+            "text": " Because there is no one to pair up."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 142.64,
+            "end": 145.12,
+            "text": " Next what can I say that if my value of N is 2."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 145.12,
+            "end": 146.64,
+            "text": " Then I have two people."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 146.64,
+            "end": 150.32,
+            "text": " I give this name to A and this name to B."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 150.32,
+            "end": 152.72,
+            "text": " What can these people stand in this way."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 152.72,
+            "end": 157.28,
+            "text": " The first way is that A is standing alone and B is standing alone."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 157.28,
+            "end": 160.76,
+            "text": " The second way is that A and B are standing together."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 160.76,
+            "end": 163.28,
+            "text": " Where I have put a bracket, parenthesis."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 163.28,
+            "end": 165.4,
+            "text": " Here it will be paired up and where it is not."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 165.4,
+            "end": 166.84,
+            "text": " Here these people are standing alone."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 166.84,
+            "end": 170.8,
+            "text": " So the total number of ways here will be equal to 2."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 170.8,
+            "end": 172.52,
+            "text": " There are two ways to stay in their party."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 172.52,
+            "end": 174.84,
+            "text": " One is to stand alone and eat."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 174.84,
+            "end": 177.24,
+            "text": " Have a good drink of juice."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 177.24,
+            "end": 180.4,
+            "text": " And the second way is that A and B are making pairs."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 180.4,
+            "end": 181.84,
+            "text": " Talking to each other."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 181.84,
+            "end": 183.52,
+            "text": " Talking to each other while drinking juice."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 183.52,
+            "end": 185.60000000000002,
+            "text": " They have made pairs with each other."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 185.60000000000002,
+            "end": 189.4,
+            "text": " If A is paired with B then B is automatically paired with A."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 189.4,
+            "end": 190.36,
+            "text": " So N is equal to 2."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 190.36,
+            "end": 192.76000000000002,
+            "text": " My ways are equal to 2."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 192.76000000000002,
+            "end": 195.28,
+            "text": " Now let's talk about N is equal to 3."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 195.28,
+            "end": 197.56,
+            "text": " For N is equal to 3."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 197.56,
+            "end": 200.4,
+            "text": " I have A, B and A."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 200.44,
+            "end": 202.76000000000002,
+            "text": " And I have C."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 202.76000000000002,
+            "end": 205.12,
+            "text": " So what are the ways to pair up them?"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 205.12,
+            "end": 210.44,
+            "text": " The first way would be that A is empty, B is empty, C is empty."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 210.44,
+            "end": 215.76,
+            "text": " The second way would be that A is empty but B and C are made."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 215.76,
+            "end": 220.52,
+            "text": " The third way would be that B is empty but A and C are made."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 220.52,
+            "end": 225.52,
+            "text": " The third way would be that C is empty but A and B are made."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 225.52,
+            "end": 228.32,
+            "text": " Can there be any other way apart from this?"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 228.32,
+            "end": 230.44,
+            "text": " There can be no other way apart from this."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 230.44,
+            "end": 232.72,
+            "text": " Because either they can be empty."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 232.72,
+            "end": 236.12,
+            "text": " If they are not standing alone then what do you mean?"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 236.12,
+            "end": 237.68,
+            "text": " How many pairs are made?"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 237.68,
+            "end": 241.48,
+            "text": " Either B and C can be made or A and C can be made or A and B can be made."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 241.48,
+            "end": 245.48,
+            "text": " And since the number is odd then one has to be standing alone."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 245.48,
+            "end": 247.6,
+            "text": " Either A will be standing alone, the other two will be making."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 247.6,
+            "end": 249.35999999999999,
+            "text": " B will be standing alone, the other two will be making."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 249.35999999999999,
+            "end": 251.64,
+            "text": " C will be standing alone, the other two will be making."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 251.64,
+            "end": 256.84,
+            "text": " So in this case the total number of my ways are equal to 4."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 256.84,
+            "end": 262.35999999999996,
+            "text": " Now whenever I do recursion in recursion, can I say that I have figured out my base case."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 262.35999999999996,
+            "end": 269.71999999999997,
+            "text": " My base case is for n is equal to 1, my ways are 1, for n is equal to 2, my ways are 2."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 269.71999999999997,
+            "end": 276.84,
+            "text": " So can I say that my base case would be that if n is value 1 or my value is 2 then what would be my ways?"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 276.84,
+            "end": 278.84,
+            "text": " My ways would be equal to n."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 278.84,
+            "end": 282.4,
+            "text": " If n is 1 then it would be 1, if n is 2 then it would be 2."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 282.4,
+            "end": 284.52,
+            "text": " So this is my base case."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 284.52,
+            "end": 287.96,
+            "text": " Now second I have to figure out what I have to do in recursion."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 287.96,
+            "end": 290.56,
+            "text": " To do work let's see it a little logically."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 290.56,
+            "end": 294.96,
+            "text": " On every level I have a choice, does every friend have a choice?"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 294.96,
+            "end": 296.0,
+            "text": " What is the choice?"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 296.0,
+            "end": 301.28,
+            "text": " Either he can be standing alone or he can be standing with someone."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 301.28,
+            "end": 307.0,
+            "text": " And I give a special tip that in math, in 11th and 12th because there are many majority of the students,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 307.0,
+            "end": 310.0,
+            "text": " you must be from the background, you must be from the engineering background."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 310.0,
+            "end": 315.28,
+            "text": " The B.C.A.s, B.A.s or any other background, you don't have to worry about it."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 315.28,
+            "end": 319.28,
+            "text": " I am not telling you an extreme advantage here."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 319.28,
+            "end": 326.88,
+            "text": " I am telling you a small thing, if you have studied permutation and combination in math,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 326.88,
+            "end": 332.44,
+            "text": " those who had math, if you are from B.A. background, B.C. background or any other background,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 332.44,
+            "end": 336.6,
+            "text": " you are from commerce and if you have studied permutation and combination in math,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 336.6,
+            "end": 343.20000000000005,
+            "text": " that topic is very strong, so the question of logic will be clear."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 343.20000000000005,
+            "end": 347.84000000000003,
+            "text": " I am telling the rest of the people, you don't have to understand so much,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 347.84000000000003,
+            "end": 350.96000000000004,
+            "text": " those who have permutation and combination are strong in math."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 350.96000000000004,
+            "end": 356.64000000000004,
+            "text": " Because the question of permutation and combination, if you think a little bit."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 356.64000000000004,
+            "end": 360.0,
+            "text": " But okay, that is a different thing, it is not related to it."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 360.0,
+            "end": 362.8,
+            "text": " We are seeing the logic, you don't even know PNC,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 362.8,
+            "end": 366.36,
+            "text": " so I have made each and every example very well,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 366.36,
+            "end": 368.52000000000004,
+            "text": " I have made some things in detail,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 368.52000000000004,
+            "end": 371.8,
+            "text": " these things are usually being taught during the preparation of JEE,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 371.8,
+            "end": 374.76,
+            "text": " whenever the questions of PNC are being asked."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 374.76,
+            "end": 382.96000000000004,
+            "text": " So at every level, I have a choice, either I can stand single or standing in a pair,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 382.96000000000004,
+            "end": 387.8,
+            "text": " I will minimize it a little bit and I will bring it here."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 387.8,
+            "end": 391.56,
+            "text": " So can I say that if I have a choice at every level,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 391.56,
+            "end": 395.40000000000003,
+            "text": " then I have taken a single choice, as soon as I have taken a single choice,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 395.40000000000003,
+            "end": 396.40000000000003,
+            "text": " what happened to me?"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 396.40000000000003,
+            "end": 398.88,
+            "text": " My one friend has become different, now how many friends have remained,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 398.88,
+            "end": 401.08000000000004,
+            "text": " now N-1 friends have remained."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 401.08000000000004,
+            "end": 405.2,
+            "text": " That is, if I had to stand N friends in the party first,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 405.2,
+            "end": 408.76,
+            "text": " I had to see the way N friends can be in the party,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 408.76,
+            "end": 412.84000000000003,
+            "text": " they can be in pairs, one of them chose that he will remain single,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 412.84000000000003,
+            "end": 414.92,
+            "text": " so now my problem has become a convert,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 414.92,
+            "end": 417.32,
+            "text": " that now I have to stand N-1 friends,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 417.32,
+            "end": 420.08,
+            "text": " so can I say that if FN was my function,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 420.08,
+            "end": 424.28,
+            "text": " in which I had to pair friends, how many friends have to pair N friends,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 424.28,
+            "end": 426.59999999999997,
+            "text": " so now FN-1 is my function,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 426.59999999999997,
+            "end": 429.8,
+            "text": " in which I have to pair friends, how many friends have to pair N-1."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 429.8,
+            "end": 432.0,
+            "text": " So I have to call the same function,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 432.0,
+            "end": 435.64,
+            "text": " but this time I will pass the parameter as N-1."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 435.64,
+            "end": 439.03999999999996,
+            "text": " So from here, my first choice came, what was the second choice?"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 439.03999999999996,
+            "end": 441.88,
+            "text": " The second choice was that you can make a pair,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 441.88,
+            "end": 444.56,
+            "text": " what happened after making a pair, two people moved aside,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 444.56,
+            "end": 446.52,
+            "text": " because whoever I have made a pair with,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 446.52,
+            "end": 448.16,
+            "text": " he cannot make a pair with anyone else,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 448.16,
+            "end": 451.4,
+            "text": " nor can he be single, now he will have to make a pair with me."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 451.4,
+            "end": 454.04,
+            "text": " So as soon as two friends became a pair, what happened?"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 454.04,
+            "end": 456.92,
+            "text": " Two friends moved away from the N,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 456.92,
+            "end": 459.92,
+            "text": " as soon as two friends made a pair here,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 459.92,
+            "end": 460.76,
+            "text": " what was made?"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 460.76,
+            "end": 462.8,
+            "text": " Now my N-2 friends have remained,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 462.8,
+            "end": 464.68,
+            "text": " so now my problem will be in which I will convert,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 464.68,
+            "end": 468.92,
+            "text": " now my problem will be in which I will have to call FN-2."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 468.92,
+            "end": 471.52,
+            "text": " But how many people can I make this pair with?"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 471.52,
+            "end": 473.2,
+            "text": " I have a choice in pairs,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 473.2,
+            "end": 477.28,
+            "text": " how many people have a choice that I am alone with my N-1?"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 477.28,
+            "end": 479.68,
+            "text": " If I take out one out of N, then how many have I got?"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 479.68,
+            "end": 482.03999999999996,
+            "text": " N-1 has been saved, now this one,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 482.03999999999996,
+            "end": 485.59999999999997,
+            "text": " one of these N-1 can pick any one of them,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 485.59999999999997,
+            "end": 487.68,
+            "text": " and make a pair with it."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 487.68,
+            "end": 490.2,
+            "text": " So how many choices have I got to make a pair?"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 490.2,
+            "end": 492.96,
+            "text": " I have N-1 choices to make a pair."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 492.96,
+            "end": 495.48,
+            "text": " How many people can a person make a pair with?"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 495.48,
+            "end": 499.76,
+            "text": " One person can make a pair with N-1 people."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 499.76,
+            "end": 501.03999999999996,
+            "text": " What does this mean?"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 501.04,
+            "end": 504.36,
+            "text": " Suppose I had A, A, B and C,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 504.36,
+            "end": 507.12,
+            "text": " A is here, and B and C are here,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 507.12,
+            "end": 509.12,
+            "text": " this is my N-1."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 509.12,
+            "end": 511.6,
+            "text": " Now A can make a pair with B,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 511.6,
+            "end": 513.2,
+            "text": " A can make a pair with C,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 513.2,
+            "end": 514.48,
+            "text": " so how many choices do A have?"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 514.48,
+            "end": 515.9200000000001,
+            "text": " A has two choices,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 515.9200000000001,
+            "end": 517.36,
+            "text": " 2 is equal to N-1,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 517.36,
+            "end": 519.76,
+            "text": " because here my N was equal to 3."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 519.76,
+            "end": 523.96,
+            "text": " So can I say that how many people make a pair with?"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 523.96,
+            "end": 526.72,
+            "text": " Pair N-1 makes a pair with people."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 526.72,
+            "end": 529.32,
+            "text": " So as soon as A makes a pair with B,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 529.32,
+            "end": 530.76,
+            "text": " then C will be different,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 530.76,
+            "end": 532.48,
+            "text": " and as soon as A makes a pair with C,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 532.48,
+            "end": 533.52,
+            "text": " then B will be different."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 533.52,
+            "end": 535.16,
+            "text": " So here I get my choice,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 535.16,
+            "end": 538.2,
+            "text": " and here I get the way that other people can accept."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 538.2,
+            "end": 540.28,
+            "text": " So how will my problem be translated?"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 540.28,
+            "end": 542.3199999999999,
+            "text": " My problem is that it has been translated into this thing,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 542.3199999999999,
+            "end": 544.4,
+            "text": " that I have N-1 choices,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 544.4,
+            "end": 547.08,
+            "text": " and as soon as I have selected one of the N-1 people"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 547.08,
+            "end": 548.28,
+            "text": " to make a pair,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 548.28,
+            "end": 550.4,
+            "text": " then the other N-2 people,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 550.4,
+            "end": 552.16,
+            "text": " N-2 will be my friends,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 552.16,
+            "end": 554.6,
+            "text": " so I have to calculate the ways for them."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 554.6,
+            "end": 556.28,
+            "text": " So here,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 556.28,
+            "end": 557.72,
+            "text": " I get my multiplier,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 557.72,
+            "end": 559.08,
+            "text": " why does the multiplier come?"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 559.08,
+            "end": 561.0400000000001,
+            "text": " Because let's assume that A,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 561.0400000000001,
+            "end": 564.9200000000001,
+            "text": " if B, C, D, E, F, G, H,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 564.9200000000001,
+            "end": 566.8000000000001,
+            "text": " they have so many choices,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 566.8000000000001,
+            "end": 569.6800000000001,
+            "text": " and A decides that I want to make a pair with D."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 569.6800000000001,
+            "end": 571.12,
+            "text": " So A and D become pairs,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 571.12,
+            "end": 577.32,
+            "text": " and here B, C, E, F, G, H becomes pairs."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 577.32,
+            "end": 579.24,
+            "text": " So as soon as A and D become pairs,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 579.24,
+            "end": 581.64,
+            "text": " I have to calculate so many ways,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 581.64,
+            "end": 583.9200000000001,
+            "text": " how many, I say FN-2,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 583.9200000000001,
+            "end": 586.44,
+            "text": " but this pair can only be made with D,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 586.44,
+            "end": 587.7600000000001,
+            "text": " so B can be made with,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 587.7600000000001,
+            "end": 588.96,
+            "text": " C can be made with,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 588.96,
+            "end": 590.1600000000001,
+            "text": " F can be made with,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 590.1600000000001,
+            "end": 591.2,
+            "text": " G can be made with,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 591.2,
+            "end": 592.6800000000001,
+            "text": " H can be made with."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 592.6800000000001,
+            "end": 594.2800000000001,
+            "text": " So all the ways,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 594.2800000000001,
+            "end": 595.7600000000001,
+            "text": " meaning FN-2,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 595.7600000000001,
+            "end": 597.4000000000001,
+            "text": " which will come out of here,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 597.4000000000001,
+            "end": 599.2800000000001,
+            "text": " will not be only that many ways,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 599.2800000000001,
+            "end": 601.8800000000001,
+            "text": " I have to multiply them with N-1,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 601.8800000000001,
+            "end": 603.0400000000001,
+            "text": " because the same ways,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 603.0400000000001,
+            "end": 604.36,
+            "text": " if I had picked C,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 604.36,
+            "end": 605.7600000000001,
+            "text": " would have come in the same way,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 605.7600000000001,
+            "end": 606.96,
+            "text": " if I had picked F,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 606.96,
+            "end": 607.8800000000001,
+            "text": " would have come in the same way,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 607.8800000000001,
+            "end": 608.72,
+            "text": " if I had picked G,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 608.72,
+            "end": 609.9200000000001,
+            "text": " would have come in the same way."
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 609.9200000000001,
+            "end": 611.4000000000001,
+            "text": " This is a very basic thing,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 611.4000000000001,
+            "end": 614.6,
+            "text": " that if I have N-1 in the way of a pair,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 614.6,
+            "end": 615.5200000000001,
+            "text": " then what I will do is,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 615.56,
+            "end": 617.24,
+            "text": " I will multiply it with N-1,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 617.24,
+            "end": 618.56,
+            "text": " this is FN-2,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 618.56,
+            "end": 620.4399999999999,
+            "text": " because if I have made a pair with one,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 620.4399999999999,
+            "end": 622.04,
+            "text": " then all the ways,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 622.04,
+            "end": 624.96,
+            "text": " that can come out of making pairs with others,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 624.96,
+            "end": 626.52,
+            "text": " then how many ways will total come out,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 626.52,
+            "end": 628.48,
+            "text": " the pairs I can make,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 628.48,
+            "end": 630.28,
+            "text": " multiply them by making a pair,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 630.28,
+            "end": 632.0799999999999,
+            "text": " all the ways,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 632.0799999999999,
+            "end": 634.0799999999999,
+            "text": " I will tell you a little more,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 634.0799999999999,
+            "end": 637.4,
+            "text": " this is how many pairs I can make,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 637.4,
+            "end": 638.68,
+            "text": " pair choices,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 638.68,
+            "end": 640.76,
+            "text": " which pairs I can make with which,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 640.76,
+            "end": 641.96,
+            "text": " and this is,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 641.96,
+            "end": 644.6,
+            "text": " after making a pair,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 644.6,
+            "end": 646.16,
+            "text": " how many ways will come out,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 646.16,
+            "end": 647.52,
+            "text": " one pair is formed,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 647.52,
+            "end": 649.12,
+            "text": " after that,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 649.12,
+            "end": 651.0400000000001,
+            "text": " a pair,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 651.0400000000001,
+            "end": 653.2,
+            "text": " so I have to multiply these two,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 653.2,
+            "end": 655.2,
+            "text": " so here, I will have two choices at every level,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 655.2,
+            "end": 655.84,
+            "text": " what choice will be,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 655.84,
+            "end": 656.72,
+            "text": " or I will be single,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 656.72,
+            "end": 657.4,
+            "text": " if I am single,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 657.4,
+            "end": 659.84,
+            "text": " then I have to calculate FN-1,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 659.84,
+            "end": 660.9200000000001,
+            "text": " if I make a pair,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 660.9200000000001,
+            "end": 662.24,
+            "text": " then how many people can I make with,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 662.24,
+            "end": 663.8000000000001,
+            "text": " N-1 can be made with,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 663.8000000000001,
+            "end": 664.8000000000001,
+            "text": " there are so many choices,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 664.8000000000001,
+            "end": 666.4,
+            "text": " and I will multiply it with,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 666.4,
+            "end": 667.44,
+            "text": " FN-2,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 667.44,
+            "end": 668.96,
+            "text": " because this is the total number of pairs,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 668.96,
+            "end": 670.6800000000001,
+            "text": " which will come after making a pair,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 670.6800000000001,
+            "end": 673.76,
+            "text": " so how many total pairs will come out,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 673.76,
+            "end": 676.48,
+            "text": " my total ways are going to be,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 676.48,
+            "end": 679.4399999999999,
+            "text": " total ways is equal to,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 679.4399999999999,
+            "end": 680.84,
+            "text": " FN-1,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 680.84,
+            "end": 682.48,
+            "text": " that is, these ways,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 682.48,
+            "end": 683.64,
+            "text": " plus,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 683.64,
+            "end": 687.48,
+            "text": " N-1 multiplied by FN-2,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 687.48,
+            "end": 689.4,
+            "text": " that is, these ways,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 689.4,
+            "end": 692.68,
+            "text": " so this is my full formula,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 692.68,
+            "end": 694.56,
+            "text": " which will control my recursion,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 694.56,
+            "end": 696.6,
+            "text": " first I will call for N-1,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 696.6,
+            "end": 698.6,
+            "text": " after that I will multiply N-1,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 698.6,
+            "end": 700.84,
+            "text": " by calling for FN-2,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 700.84,
+            "end": 703.08,
+            "text": " and I will take the sum of all these,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 703.08,
+            "end": 705.2800000000001,
+            "text": " so these will be my total ways,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 705.2800000000001,
+            "end": 706.6800000000001,
+            "text": " this is the recursion,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 706.6800000000001,
+            "end": 708.36,
+            "text": " so I have to work here,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 708.36,
+            "end": 710.2,
+            "text": " and here the inner function is called,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 710.2,
+            "end": 712.76,
+            "text": " with parameter N-1 and N-2,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 712.76,
+            "end": 714.1600000000001,
+            "text": " so I have to do this whole thing,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 714.1600000000001,
+            "end": 716.0400000000001,
+            "text": " in the recursion, in my function,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 716.0400000000001,
+            "end": 717.64,
+            "text": " so now I will write my function,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 717.64,
+            "end": 718.88,
+            "text": " I will give the name to the function,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 718.88,
+            "end": 721.5600000000001,
+            "text": " public, static,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 721.5600000000001,
+            "end": 722.76,
+            "text": " int,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 722.76,
+            "end": 724.0400000000001,
+            "text": " friend,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 724.0400000000001,
+            "end": 725.88,
+            "text": " friend's pairing,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 725.88,
+            "end": 727.84,
+            "text": " we will pass it, integer N,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 727.84,
+            "end": 729.36,
+            "text": " that is, my N friends,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 729.36,
+            "end": 731.6,
+            "text": " for which I have to find out the ways,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 731.6,
+            "end": 733.8000000000001,
+            "text": " so first of all, I will do my work,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 733.8000000000001,
+            "end": 735.4,
+            "text": " here I have to take a choice,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 735.4,
+            "end": 736.16,
+            "text": " what choice do I have to take,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 736.16,
+            "end": 737.76,
+            "text": " that either I can be single,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 737.76,
+            "end": 739.88,
+            "text": " to be single, I have to calculate,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 739.88,
+            "end": 742.08,
+            "text": " int FN-1,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 742.08,
+            "end": 743.28,
+            "text": " to calculate this,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 743.28,
+            "end": 746.36,
+            "text": " I will call friend's pairing for N-1,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 746.36,
+            "end": 747.52,
+            "text": " second choice,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 747.52,
+            "end": 749.08,
+            "text": " that I can make a pair,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 749.08,
+            "end": 750.52,
+            "text": " to make a pair,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 750.52,
+            "end": 753.44,
+            "text": " FN-2,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 753.44,
+            "end": 754.16,
+            "text": " will come,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 754.16,
+            "end": 757.6800000000001,
+            "text": " friend's pairing for N-2,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 757.6800000000001,
+            "end": 760.88,
+            "text": " means, the ways of the pair,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 760.88,
+            "end": 762.04,
+            "text": " that will be equal to,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 762.04,
+            "end": 763.92,
+            "text": " how many people can I make a pair with,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 763.92,
+            "end": 764.64,
+            "text": " multiply by 1,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 764.64,
+            "end": 765.8,
+            "text": " if I make a pair with 1,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 765.8,
+            "end": 767.36,
+            "text": " then how many ways are there,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 767.36,
+            "end": 768.36,
+            "text": " after that there are ways,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 768.36,
+            "end": 770.68,
+            "text": " FN-2,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 770.68,
+            "end": 774.32,
+            "text": " and what will be my total ways,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 774.32,
+            "end": 777.76,
+            "text": " int total ways,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 777.76,
+            "end": 779.8,
+            "text": " FN-1,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 779.8,
+            "end": 783.36,
+            "text": " plus pair ways,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 783.36,
+            "end": 786.76,
+            "text": " and from here I will return my total ways,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 786.76,
+            "end": 788.4,
+            "text": " so here I have taken the choice of being single,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 788.4,
+            "end": 789.72,
+            "text": " here I have taken the choice of making a pair,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 789.72,
+            "end": 791.44,
+            "text": " and here I have taken total ways,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 791.44,
+            "end": 792.76,
+            "text": " and what will be the base case,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 792.76,
+            "end": 793.8000000000001,
+            "text": " the base case will be,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 793.8000000000001,
+            "end": 795.8000000000001,
+            "text": " if N-1 is 1,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 795.8000000000001,
+            "end": 797.72,
+            "text": " or N-2 is 2,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 797.72,
+            "end": 798.32,
+            "text": " then in this case,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 798.32,
+            "end": 800.0,
+            "text": " my total number of ways will be,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 800.0,
+            "end": 801.08,
+            "text": " equal to N,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 801.08,
+            "end": 803.64,
+            "text": " from here I will return my N,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 803.64,
+            "end": 805.1600000000001,
+            "text": " let's do this safe,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 805.1600000000001,
+            "end": 806.9200000000001,
+            "text": " we will pass in the main function,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 806.9200000000001,
+            "end": 809.5600000000001,
+            "text": " friend's pairing for N is equal to 3,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 809.5600000000001,
+            "end": 810.5600000000001,
+            "text": " for N is equal to 3,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 810.5600000000001,
+            "end": 813.48,
+            "text": " I know that I have 4 ways,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 813.48,
+            "end": 814.76,
+            "text": " so let's see the output of this,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 814.76,
+            "end": 816.48,
+            "text": " friend's pairing,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 816.48,
+            "end": 817.48,
+            "text": " here,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 817.48,
+            "end": 818.5600000000001,
+            "text": " semi-colon,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 818.56,
+            "end": 822.0,
+            "text": " I had to answer this,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 822.0,
+            "end": 825.0,
+            "text": " I have 4 ways,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 825.0,
+            "end": 827.8,
+            "text": " now I can change this function,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 827.8,
+            "end": 830.2399999999999,
+            "text": " I can make it a little more beautiful,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 830.2399999999999,
+            "end": 831.92,
+            "text": " in fact the top function,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 831.92,
+            "end": 833.52,
+            "text": " that is our tiling problem,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 833.52,
+            "end": 835.76,
+            "text": " we could write this in very small,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 835.76,
+            "end": 837.3599999999999,
+            "text": " I will show you the pairing,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 837.3599999999999,
+            "end": 838.2399999999999,
+            "text": " how to write in small,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 838.2399999999999,
+            "end": 840.3199999999999,
+            "text": " you have to write in small,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 840.3199999999999,
+            "end": 842.52,
+            "text": " how the base case will remain the same,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 842.52,
+            "end": 844.64,
+            "text": " if I remove my comments,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 844.64,
+            "end": 846.1999999999999,
+            "text": " or I don't remove the comments,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 846.1999999999999,
+            "end": 847.4799999999999,
+            "text": " what should I do here,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 847.5600000000001,
+            "end": 850.24,
+            "text": " here I can write a return statement,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 850.24,
+            "end": 851.88,
+            "text": " what will the return statement do,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 851.88,
+            "end": 854.96,
+            "text": " first friend's pairing will be called for N-1,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 854.96,
+            "end": 857.64,
+            "text": " here I have taken the choice of being single,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 857.64,
+            "end": 858.48,
+            "text": " plus,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 858.48,
+            "end": 862.6800000000001,
+            "text": " here I will multiply from N-1,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 862.6800000000001,
+            "end": 865.96,
+            "text": " friend's pairing will be called for N-2,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 865.96,
+            "end": 868.48,
+            "text": " so this is my choice to be single,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 868.48,
+            "end": 871.6,
+            "text": " if I comment out this whole part,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 871.6,
+            "end": 873.6800000000001,
+            "text": " so this is my choice to be single,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 873.6800000000001,
+            "end": 875.96,
+            "text": " here I can make total number of pairs,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 875.96,
+            "end": 878.12,
+            "text": " and here my choices to make pairs,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 878.12,
+            "end": 881.76,
+            "text": " so the total code is written in a single line,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 881.76,
+            "end": 885.12,
+            "text": " in fact I can remove the entire top one,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 885.12,
+            "end": 887.2,
+            "text": " and now look at my function recursion,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 887.2,
+            "end": 889.52,
+            "text": " function recursion has remained so small,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 889.52,
+            "end": 890.72,
+            "text": " of 3 lines,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 890.72,
+            "end": 892.96,
+            "text": " there are literally 3-4 lines inside,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 892.96,
+            "end": 895.44,
+            "text": " and this is how many functions have calculated,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 895.44,
+            "end": 896.96,
+            "text": " my total number of pairs,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 896.96,
+            "end": 900.32,
+            "text": " that is how I can pair my friends,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 900.32,
+            "end": 903.24,
+            "text": " so now the same thing you have to do for the tiling problem,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 903.24,
+            "end": 905.48,
+            "text": " you have to compact that function,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 905.48,
+            "end": 907.88,
+            "text": " there are all things in the single return statement,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 907.88,
+            "end": 910.12,
+            "text": " and that can happen,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 910.12,
+            "end": 912.52,
+            "text": " literally such a big statement will come,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 912.52,
+            "end": 915.08,
+            "text": " so I hope we understood the friend's pairing well,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 915.08,
+            "end": 917.28,
+            "text": " we can do the stack analysis of this too,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 917.28,
+            "end": 919.4,
+            "text": " but if we have done the old remove duplicates,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 919.4,
+            "end": 920.64,
+            "text": " and the tiling problem,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 920.64,
+            "end": 921.72,
+            "text": " then there is no need,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 921.72,
+            "end": 924.6,
+            "text": " this will also be clearing us intuitively,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 924.6,
+            "end": 926.0,
+            "text": " here there is a doubt,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 926.0,
+            "end": 928.72,
+            "text": " so we have to see the explanation again,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 928.72,
+            "end": 931.12,
+            "text": " we have to relate things with the code,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 931.12,
+            "end": 933.0,
+            "text": " to see how to work internally,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 933.16,
+            "end": 935.72,
+            "text": " mostly recursion is like driving,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 935.72,
+            "end": 937.16,
+            "text": " like in driving,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 937.16,
+            "end": 938.84,
+            "text": " many things come with practice,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 938.84,
+            "end": 940.08,
+            "text": " as much as we practice,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 940.08,
+            "end": 942.04,
+            "text": " then some things come with the feel,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 942.04,
+            "end": 943.88,
+            "text": " then the day the emergency comes,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 943.88,
+            "end": 946.8,
+            "text": " that day our pairs will automatically practice,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 946.8,
+            "end": 948.04,
+            "text": " then they are stuck on the brake,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 948.04,
+            "end": 949.32,
+            "text": " similarly there is recursion,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 949.32,
+            "end": 950.72,
+            "text": " if we have a very good practice,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 950.72,
+            "end": 952.72,
+            "text": " then the intuition starts building itself,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 952.72,
+            "end": 954.32,
+            "text": " starts building itself,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 954.32,
+            "end": 956.64,
+            "text": " then we will understand the questions well,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 956.64,
+            "end": 957.36,
+            "text": " the problems,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 957.36,
+            "end": 959.12,
+            "text": " so the more we practice,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 959.12,
+            "end": 960.64,
+            "text": " the more intuition will be built,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 960.64,
+            "end": 962.8,
+            "text": " the more we can solve the questions,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 962.92,
+            "end": 964.56,
+            "text": " in practice, in contest,"
+        },
+        {
+            "number": "16",
+            "title": "Friends Pairing Problem.mp4",
+            "start": 964.56,
+            "end": 965.5999999999999,
+            "text": " or in interviews,"
+        }
+    ],
+    "text": " Next question is about Friends Pairing Problem. This is also a very classical problem of recursion. This problem is from a company called Goldman Sachs. The problem is that I have N friends. I have N friends. I have N number of friends. So many friends. All those friends go to a party. And what happens in a party? Either you can stand up and eat something or you can talk to someone. As soon as we talk to someone, I give the name of the thing. Pairing. Pairing means when two people are connected and when they are talking. So either you can stand alone in a party. Or you can stand with a friend. So when you stand with a friend, you will become a pair. When you stand alone, you will be single. So this is a problem. It is given that N is friends. Either those friends can be single. Or they can pair up with some other friend. Every friend can be single. Suppose there are three people in a party. This is called A and this is called C. If A and B start talking to each other. So they can only talk to A and B can't talk to C. If we observe at one time. So if A is pairing with B, then B can't do it with anyone else. A can't do it with anyone else. So these two pair up are final. So there are some problems like this. Once you have made a pair. You can only pair with one person at a time. Find out the total number of ways in which friends can remain single or paired up. Now I have to take out total ways. In which our N friends can be standing in the party. That is, there will be single ways in this. There will be pairs of ways in this. I have to take out total. If I send N people to the party. And I have told them that either you are standing single. Or you are standing with someone. So how many ways can they be standing in that party. First let's analyze for N is equal to 1. If there is only one person in a party. Then how will that person stand in a single way. If he stands in a single way. Then what can I say that my ways will be one. That is the only way that person stands alone. Because there is no one to pair up. Next what can I say that if my value of N is 2. Then I have two people. I give this name to A and this name to B. What can these people stand in this way. The first way is that A is standing alone and B is standing alone. The second way is that A and B are standing together. Where I have put a bracket, parenthesis. Here it will be paired up and where it is not. Here these people are standing alone. So the total number of ways here will be equal to 2. There are two ways to stay in their party. One is to stand alone and eat. Have a good drink of juice. And the second way is that A and B are making pairs. Talking to each other. Talking to each other while drinking juice. They have made pairs with each other. If A is paired with B then B is automatically paired with A. So N is equal to 2. My ways are equal to 2. Now let's talk about N is equal to 3. For N is equal to 3. I have A, B and A. And I have C. So what are the ways to pair up them? The first way would be that A is empty, B is empty, C is empty. The second way would be that A is empty but B and C are made. The third way would be that B is empty but A and C are made. The third way would be that C is empty but A and B are made. Can there be any other way apart from this? There can be no other way apart from this. Because either they can be empty. If they are not standing alone then what do you mean? How many pairs are made? Either B and C can be made or A and C can be made or A and B can be made. And since the number is odd then one has to be standing alone. Either A will be standing alone, the other two will be making. B will be standing alone, the other two will be making. C will be standing alone, the other two will be making. So in this case the total number of my ways are equal to 4. Now whenever I do recursion in recursion, can I say that I have figured out my base case. My base case is for n is equal to 1, my ways are 1, for n is equal to 2, my ways are 2. So can I say that my base case would be that if n is value 1 or my value is 2 then what would be my ways? My ways would be equal to n. If n is 1 then it would be 1, if n is 2 then it would be 2. So this is my base case. Now second I have to figure out what I have to do in recursion. To do work let's see it a little logically. On every level I have a choice, does every friend have a choice? What is the choice? Either he can be standing alone or he can be standing with someone. And I give a special tip that in math, in 11th and 12th because there are many majority of the students, you must be from the background, you must be from the engineering background. The B.C.A.s, B.A.s or any other background, you don't have to worry about it. I am not telling you an extreme advantage here. I am telling you a small thing, if you have studied permutation and combination in math, those who had math, if you are from B.A. background, B.C. background or any other background, you are from commerce and if you have studied permutation and combination in math, that topic is very strong, so the question of logic will be clear. I am telling the rest of the people, you don't have to understand so much, those who have permutation and combination are strong in math. Because the question of permutation and combination, if you think a little bit. But okay, that is a different thing, it is not related to it. We are seeing the logic, you don't even know PNC, so I have made each and every example very well, I have made some things in detail, these things are usually being taught during the preparation of JEE, whenever the questions of PNC are being asked. So at every level, I have a choice, either I can stand single or standing in a pair, I will minimize it a little bit and I will bring it here. So can I say that if I have a choice at every level, then I have taken a single choice, as soon as I have taken a single choice, what happened to me? My one friend has become different, now how many friends have remained, now N-1 friends have remained. That is, if I had to stand N friends in the party first, I had to see the way N friends can be in the party, they can be in pairs, one of them chose that he will remain single, so now my problem has become a convert, that now I have to stand N-1 friends, so can I say that if FN was my function, in which I had to pair friends, how many friends have to pair N friends, so now FN-1 is my function, in which I have to pair friends, how many friends have to pair N-1. So I have to call the same function, but this time I will pass the parameter as N-1. So from here, my first choice came, what was the second choice? The second choice was that you can make a pair, what happened after making a pair, two people moved aside, because whoever I have made a pair with, he cannot make a pair with anyone else, nor can he be single, now he will have to make a pair with me. So as soon as two friends became a pair, what happened? Two friends moved away from the N, as soon as two friends made a pair here, what was made? Now my N-2 friends have remained, so now my problem will be in which I will convert, now my problem will be in which I will have to call FN-2. But how many people can I make this pair with? I have a choice in pairs, how many people have a choice that I am alone with my N-1? If I take out one out of N, then how many have I got? N-1 has been saved, now this one, one of these N-1 can pick any one of them, and make a pair with it. So how many choices have I got to make a pair? I have N-1 choices to make a pair. How many people can a person make a pair with? One person can make a pair with N-1 people. What does this mean? Suppose I had A, A, B and C, A is here, and B and C are here, this is my N-1. Now A can make a pair with B, A can make a pair with C, so how many choices do A have? A has two choices, 2 is equal to N-1, because here my N was equal to 3. So can I say that how many people make a pair with? Pair N-1 makes a pair with people. So as soon as A makes a pair with B, then C will be different, and as soon as A makes a pair with C, then B will be different. So here I get my choice, and here I get the way that other people can accept. So how will my problem be translated? My problem is that it has been translated into this thing, that I have N-1 choices, and as soon as I have selected one of the N-1 people to make a pair, then the other N-2 people, N-2 will be my friends, so I have to calculate the ways for them. So here, I get my multiplier, why does the multiplier come? Because let's assume that A, if B, C, D, E, F, G, H, they have so many choices, and A decides that I want to make a pair with D. So A and D become pairs, and here B, C, E, F, G, H becomes pairs. So as soon as A and D become pairs, I have to calculate so many ways, how many, I say FN-2, but this pair can only be made with D, so B can be made with, C can be made with, F can be made with, G can be made with, H can be made with. So all the ways, meaning FN-2, which will come out of here, will not be only that many ways, I have to multiply them with N-1, because the same ways, if I had picked C, would have come in the same way, if I had picked F, would have come in the same way, if I had picked G, would have come in the same way. This is a very basic thing, that if I have N-1 in the way of a pair, then what I will do is, I will multiply it with N-1, this is FN-2, because if I have made a pair with one, then all the ways, that can come out of making pairs with others, then how many ways will total come out, the pairs I can make, multiply them by making a pair, all the ways, I will tell you a little more, this is how many pairs I can make, pair choices, which pairs I can make with which, and this is, after making a pair, how many ways will come out, one pair is formed, after that, a pair, so I have to multiply these two, so here, I will have two choices at every level, what choice will be, or I will be single, if I am single, then I have to calculate FN-1, if I make a pair, then how many people can I make with, N-1 can be made with, there are so many choices, and I will multiply it with, FN-2, because this is the total number of pairs, which will come after making a pair, so how many total pairs will come out, my total ways are going to be, total ways is equal to, FN-1, that is, these ways, plus, N-1 multiplied by FN-2, that is, these ways, so this is my full formula, which will control my recursion, first I will call for N-1, after that I will multiply N-1, by calling for FN-2, and I will take the sum of all these, so these will be my total ways, this is the recursion, so I have to work here, and here the inner function is called, with parameter N-1 and N-2, so I have to do this whole thing, in the recursion, in my function, so now I will write my function, I will give the name to the function, public, static, int, friend, friend's pairing, we will pass it, integer N, that is, my N friends, for which I have to find out the ways, so first of all, I will do my work, here I have to take a choice, what choice do I have to take, that either I can be single, to be single, I have to calculate, int FN-1, to calculate this, I will call friend's pairing for N-1, second choice, that I can make a pair, to make a pair, FN-2, will come, friend's pairing for N-2, means, the ways of the pair, that will be equal to, how many people can I make a pair with, multiply by 1, if I make a pair with 1, then how many ways are there, after that there are ways, FN-2, and what will be my total ways, int total ways, FN-1, plus pair ways, and from here I will return my total ways, so here I have taken the choice of being single, here I have taken the choice of making a pair, and here I have taken total ways, and what will be the base case, the base case will be, if N-1 is 1, or N-2 is 2, then in this case, my total number of ways will be, equal to N, from here I will return my N, let's do this safe, we will pass in the main function, friend's pairing for N is equal to 3, for N is equal to 3, I know that I have 4 ways, so let's see the output of this, friend's pairing, here, semi-colon, I had to answer this, I have 4 ways, now I can change this function, I can make it a little more beautiful, in fact the top function, that is our tiling problem, we could write this in very small, I will show you the pairing, how to write in small, you have to write in small, how the base case will remain the same, if I remove my comments, or I don't remove the comments, what should I do here, here I can write a return statement, what will the return statement do, first friend's pairing will be called for N-1, here I have taken the choice of being single, plus, here I will multiply from N-1, friend's pairing will be called for N-2, so this is my choice to be single, if I comment out this whole part, so this is my choice to be single, here I can make total number of pairs, and here my choices to make pairs, so the total code is written in a single line, in fact I can remove the entire top one, and now look at my function recursion, function recursion has remained so small, of 3 lines, there are literally 3-4 lines inside, and this is how many functions have calculated, my total number of pairs, that is how I can pair my friends, so now the same thing you have to do for the tiling problem, you have to compact that function, there are all things in the single return statement, and that can happen, literally such a big statement will come, so I hope we understood the friend's pairing well, we can do the stack analysis of this too, but if we have done the old remove duplicates, and the tiling problem, then there is no need, this will also be clearing us intuitively, here there is a doubt, so we have to see the explanation again, we have to relate things with the code, to see how to work internally, mostly recursion is like driving, like in driving, many things come with practice, as much as we practice, then some things come with the feel, then the day the emergency comes, that day our pairs will automatically practice, then they are stuck on the brake, similarly there is recursion, if we have a very good practice, then the intuition starts building itself, starts building itself, then we will understand the questions well, the problems, so the more we practice, the more intuition will be built, the more we can solve the questions, in practice, in contest, or in interviews,"
+}

@@ -1,0 +1,7 @@
+videos/
+audio_mp3/
+whisper/
+__pycache__/
+*.pyc
+.venv/
+venv/

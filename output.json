@@ -1,0 +1,1562 @@
+[
+    {
+        "start": 0.0,
+        "end": 3.0,
+        "text": " Hi everyone, now we are talking about Recursion."
+    },
+    {
+        "start": 3.0,
+        "end": 8.0,
+        "text": " Recursion concept we have heard many times and it is a very powerful concept."
+    },
+    {
+        "start": 8.0,
+        "end": 11.0,
+        "text": " I believe that this programming is one of the core concepts,"
+    },
+    {
+        "start": 11.0,
+        "end": 14.0,
+        "text": " whether you are using any programming language."
+    },
+    {
+        "start": 14.0,
+        "end": 17.0,
+        "text": " If you know Recursion, you become a better programmer."
+    },
+    {
+        "start": 17.0,
+        "end": 20.0,
+        "text": " We can easily remove the solution of many problems."
+    },
+    {
+        "start": 20.0,
+        "end": 25.0,
+        "text": " To learn Recursion, we need to come from two concepts."
+    },
+    {
+        "start": 25.0,
+        "end": 28.0,
+        "text": " The first concept is iteration."
+    },
+    {
+        "start": 28.0,
+        "end": 31.0,
+        "text": " Iteration means to put loops."
+    },
+    {
+        "start": 31.0,
+        "end": 34.0,
+        "text": " We have read the for loop, do why loop, why loop."
+    },
+    {
+        "start": 34.0,
+        "end": 37.0,
+        "text": " So iteration comes well to us how to put loops."
+    },
+    {
+        "start": 37.0,
+        "end": 40.0,
+        "text": " And the second concept we should come is functions."
+    },
+    {
+        "start": 40.0,
+        "end": 45.0,
+        "text": " What are the parameters, arguments in functions, how are the functions called."
+    },
+    {
+        "start": 45.0,
+        "end": 48.0,
+        "text": " If these two concepts come to us, we can learn Recursion."
+    },
+    {
+        "start": 48.0,
+        "end": 52.0,
+        "text": " And luckily we have read them, now we are completely ready to learn Recursion."
+    },
+    {
+        "start": 52.0,
+        "end": 56.0,
+        "text": " The major use of Recursion is where it comes."
+    },
+    {
+        "start": 56.0,
+        "end": 62.0,
+        "text": " We are doing advanced data structures like trees, graphs or DP,"
+    },
+    {
+        "start": 62.0,
+        "end": 64.0,
+        "text": " Dynamic Programming Algorithms."
+    },
+    {
+        "start": 64.0,
+        "end": 66.0,
+        "text": " We are seeing a lot of them."
+    },
+    {
+        "start": 66.0,
+        "end": 69.0,
+        "text": " Now why should iteration come to learn Recursion?"
+    },
+    {
+        "start": 69.0,
+        "end": 72.0,
+        "text": " Because iteration and Recursion are brothers and sisters."
+    },
+    {
+        "start": 72.0,
+        "end": 75.0,
+        "text": " The work we can do with the help of iteration by putting loops,"
+    },
+    {
+        "start": 75.0,
+        "end": 78.0,
+        "text": " we can do all the work with Recursion."
+    },
+    {
+        "start": 78.0,
+        "end": 83.0,
+        "text": " The work we can do with Recursion, we can do all the work with iteration."
+    },
+    {
+        "start": 83.0,
+        "end": 87.0,
+        "text": " Depending upon the problem, it is very easy to do some work with Recursion."
+    },
+    {
+        "start": 87.0,
+        "end": 93.0,
+        "text": " Like traversing it in trees, but it becomes very difficult to do it with iteration."
+    },
+    {
+        "start": 93.0,
+        "end": 98.0,
+        "text": " And doing some work with iteration is very easy, but it becomes very difficult in Recursion."
+    },
+    {
+        "start": 98.0,
+        "end": 101.0,
+        "text": " So depending upon the problem, as soon as we read Recursion,"
+    },
+    {
+        "start": 101.0,
+        "end": 104.0,
+        "text": " we will be exploring advanced data structures, algorithms,"
+    },
+    {
+        "start": 104.0,
+        "end": 109.0,
+        "text": " in which situation we have to use iteration, in which situation we have to use Recursion."
+    },
+    {
+        "start": 109.0,
+        "end": 112.0,
+        "text": " Now let's understand what Recursion is."
+    },
+    {
+        "start": 112.0,
+        "end": 116.0,
+        "text": " In the Bar-V Math, we understood a small concept of functions."
+    },
+    {
+        "start": 116.0,
+        "end": 121.0,
+        "text": " Suppose we have a function, fx is equal to x square."
+    },
+    {
+        "start": 121.0,
+        "end": 124.0,
+        "text": " Now for this function, if I want to take out f of fx,"
+    },
+    {
+        "start": 124.0,
+        "end": 126.0,
+        "text": " then what will happen?"
+    },
+    {
+        "start": 126.0,
+        "end": 128.0,
+        "text": " It will be x square of square."
+    },
+    {
+        "start": 128.0,
+        "end": 132.0,
+        "text": " If I want to take out x is equal to 2, then what will be the value of fx?"
+    },
+    {
+        "start": 132.0,
+        "end": 136.0,
+        "text": " The value of fx will be 4, i.e. 2 square."
+    },
+    {
+        "start": 136.0,
+        "end": 145.0,
+        "text": " And f of fx will be f of 4, i.e. 4 times square, i.e. 16."
+    },
+    {
+        "start": 145.0,
+        "end": 151.0,
+        "text": " Now in math, it was very common to call a function."
+    },
+    {
+        "start": 151.0,
+        "end": 154.0,
+        "text": " So this is the same concept of Recursion."
+    },
+    {
+        "start": 154.0,
+        "end": 157.0,
+        "text": " When a function calls itself again and again,"
+    },
+    {
+        "start": 157.0,
+        "end": 160.0,
+        "text": " like this function called itself first,"
+    },
+    {
+        "start": 160.0,
+        "end": 165.0,
+        "text": " then the function inside sent a few answers to the outside,"
+    },
+    {
+        "start": 165.0,
+        "end": 168.0,
+        "text": " and then calculated the final value on its basis."
+    },
+    {
+        "start": 168.0,
+        "end": 170.0,
+        "text": " Let's understand this one more way."
+    },
+    {
+        "start": 170.0,
+        "end": 173.0,
+        "text": " Suppose this time our function is based on factorial."
+    },
+    {
+        "start": 173.0,
+        "end": 175.0,
+        "text": " We know what was this factorial."
+    },
+    {
+        "start": 175.0,
+        "end": 182.0,
+        "text": " We have studied in math that factorial of a number n is equal to n multiplied by factorial of a number n minus 1."
+    },
+    {
+        "start": 182.0,
+        "end": 186.0,
+        "text": " The students don't know factorial, whose math is not a little background."
+    },
+    {
+        "start": 186.0,
+        "end": 191.0,
+        "text": " The factorial of a number n is n multiplied by n minus 1 multiplied by n minus 2,"
+    },
+    {
+        "start": 191.0,
+        "end": 194.0,
+        "text": " until we do not multiply it by 1."
+    },
+    {
+        "start": 194.0,
+        "end": 197.0,
+        "text": " For example, if I want to get 5 factorials,"
+    },
+    {
+        "start": 197.0,
+        "end": 201.0,
+        "text": " then what will happen? 5 into 4 into 3 into 2 into 1."
+    },
+    {
+        "start": 201.0,
+        "end": 205.0,
+        "text": " 4 factorials will be for me, 4 into 3 into 2 into 1."
+    },
+    {
+        "start": 205.0,
+        "end": 211.0,
+        "text": " This ends on zero factorial, whose value 1 is always known to us from the beginning."
+    },
+    {
+        "start": 211.0,
+        "end": 216.0,
+        "text": " Now, factorial of n is for us n multiplied by factorial of n minus 1."
+    },
+    {
+        "start": 216.0,
+        "end": 219.0,
+        "text": " Now we can calculate this factorial of n minus 1."
+    },
+    {
+        "start": 219.0,
+        "end": 224.0,
+        "text": " How? n minus 1 multiplied by factorial of n minus 2."
+    },
+    {
+        "start": 224.0,
+        "end": 227.0,
+        "text": " We can also calculate this factorial of n minus 2."
+    },
+    {
+        "start": 227.0,
+        "end": 231.0,
+        "text": " How? n minus 2 multiplied by factorial of n minus 3."
+    },
+    {
+        "start": 231.0,
+        "end": 233.0,
+        "text": " So, what happens at the end while going?"
+    },
+    {
+        "start": 233.0,
+        "end": 236.0,
+        "text": " 1 multiplied by factorial of 0."
+    },
+    {
+        "start": 236.0,
+        "end": 241.0,
+        "text": " This way, the whole chain of factorial goes down."
+    },
+    {
+        "start": 241.0,
+        "end": 243.0,
+        "text": " If I take an example of this,"
+    },
+    {
+        "start": 243.0,
+        "end": 245.0,
+        "text": " suppose we want to get 5 factorials."
+    },
+    {
+        "start": 245.0,
+        "end": 247.0,
+        "text": " So, how will the chain remain?"
+    },
+    {
+        "start": 247.0,
+        "end": 252.0,
+        "text": " factorial of 5 is equal to 5 multiplied by factorial of 4."
+    },
+    {
+        "start": 252.0,
+        "end": 255.0,
+        "text": " factorial of 4 is 4 multiplied by factorial of 3."
+    },
+    {
+        "start": 255.0,
+        "end": 259.0,
+        "text": " factorial of 3 is 3 multiplied by factorial of 2."
+    },
+    {
+        "start": 259.0,
+        "end": 262.0,
+        "text": " factorial of 2 is 2 multiplied by factorial of 1."
+    },
+    {
+        "start": 262.0,
+        "end": 266.0,
+        "text": " and factorial of 1 is 1 multiplied by factorial of 0."
+    },
+    {
+        "start": 266.0,
+        "end": 268.0,
+        "text": " What is the value of this factorial of 0?"
+    },
+    {
+        "start": 268.0,
+        "end": 270.0,
+        "text": " It is 1, which I already know."
+    },
+    {
+        "start": 270.0,
+        "end": 272.0,
+        "text": " Now, what will be the calculator from here?"
+    },
+    {
+        "start": 272.0,
+        "end": 274.0,
+        "text": " 1 multiplied by factorial of 1 is equal to 1."
+    },
+    {
+        "start": 274.0,
+        "end": 276.0,
+        "text": " So, we will replace it with 1."
+    },
+    {
+        "start": 276.0,
+        "end": 278.0,
+        "text": " So, 2 multiplied by 1 is equal to 2."
+    },
+    {
+        "start": 278.0,
+        "end": 280.0,
+        "text": " We will replace it with 2."
+    },
+    {
+        "start": 280.0,
+        "end": 283.0,
+        "text": " 3 multiplied by 2 is equal to 6."
+    },
+    {
+        "start": 283.0,
+        "end": 286.0,
+        "text": " 4 multiplied by 6 is equal to 24."
+    },
+    {
+        "start": 286.0,
+        "end": 290.0,
+        "text": " And the value of both of these will be 120."
+    },
+    {
+        "start": 290.0,
+        "end": 292.0,
+        "text": " What happened in the whole process?"
+    },
+    {
+        "start": 292.0,
+        "end": 296.0,
+        "text": " Every step we have taken out another problem like ourselves,"
+    },
+    {
+        "start": 296.0,
+        "end": 297.0,
+        "text": " which is smaller than us."
+    },
+    {
+        "start": 297.0,
+        "end": 301.0,
+        "text": " For example, my problem was that I had to calculate 5 factorials."
+    },
+    {
+        "start": 301.0,
+        "end": 303.0,
+        "text": " But I don't know how to calculate 5 factorials."
+    },
+    {
+        "start": 303.0,
+        "end": 305.0,
+        "text": " So, what will I do?"
+    },
+    {
+        "start": 305.0,
+        "end": 309.0,
+        "text": " I know that if I get factorial of 4 in some way,"
+    },
+    {
+        "start": 309.0,
+        "end": 311.0,
+        "text": " which is a problem like mine, but smaller than me,"
+    },
+    {
+        "start": 311.0,
+        "end": 315.0,
+        "text": " it is an easy way to calculate from 5 factorials."
+    },
+    {
+        "start": 315.0,
+        "end": 317.0,
+        "text": " You can calculate factorial of 4."
+    },
+    {
+        "start": 317.0,
+        "end": 320.0,
+        "text": " I can multiply it from 5 and get 5 factorials."
+    },
+    {
+        "start": 320.0,
+        "end": 321.0,
+        "text": " So, what did I do?"
+    },
+    {
+        "start": 321.0,
+        "end": 325.0,
+        "text": " I multiplied it from 5 with the value of factorial of 4."
+    },
+    {
+        "start": 325.0,
+        "end": 329.0,
+        "text": " Now, it is easy to calculate factorial of 4"
+    },
+    {
+        "start": 329.0,
+        "end": 331.0,
+        "text": " because I have to calculate factorial of 3."
+    },
+    {
+        "start": 331.0,
+        "end": 332.0,
+        "text": " So, what did I do?"
+    },
+    {
+        "start": 332.0,
+        "end": 334.0,
+        "text": " I multiplied 4 from factorial of 3."
+    },
+    {
+        "start": 334.0,
+        "end": 337.0,
+        "text": " Now, it is easier to calculate factorial of 3"
+    },
+    {
+        "start": 337.0,
+        "end": 339.0,
+        "text": " because I have to calculate factorial of 2."
+    },
+    {
+        "start": 339.0,
+        "end": 341.0,
+        "text": " So, I multiplied 3 from factorial of 2."
+    },
+    {
+        "start": 341.0,
+        "end": 343.0,
+        "text": " So, what are we doing on every step?"
+    },
+    {
+        "start": 343.0,
+        "end": 347.0,
+        "text": " We are taking a smaller problem on every step."
+    },
+    {
+        "start": 347.0,
+        "end": 349.0,
+        "text": " And how is that smaller problem?"
+    },
+    {
+        "start": 349.0,
+        "end": 351.0,
+        "text": " It is similar to me."
+    },
+    {
+        "start": 351.0,
+        "end": 354.0,
+        "text": " For example, if I want to get 5 factorials,"
+    },
+    {
+        "start": 354.0,
+        "end": 356.0,
+        "text": " or I want to get 4 factorials,"
+    },
+    {
+        "start": 356.0,
+        "end": 358.0,
+        "text": " or I want to get 3 factorials."
+    },
+    {
+        "start": 358.0,
+        "end": 360.0,
+        "text": " You will notice that on every level,"
+    },
+    {
+        "start": 360.0,
+        "end": 364.0,
+        "text": " the problem is getting smaller and smaller."
+    },
+    {
+        "start": 364.0,
+        "end": 366.0,
+        "text": " It is easy to get 4 factorials,"
+    },
+    {
+        "start": 366.0,
+        "end": 369.0,
+        "text": " and it is less easy to get 5 factorials."
+    },
+    {
+        "start": 369.0,
+        "end": 372.0,
+        "text": " And all the problems are similar."
+    },
+    {
+        "start": 372.0,
+        "end": 375.0,
+        "text": " We are taking them out on every step."
+    },
+    {
+        "start": 375.0,
+        "end": 379.0,
+        "text": " So, the functions that are calling themselves again and again,"
+    },
+    {
+        "start": 379.0,
+        "end": 383.0,
+        "text": " the factorial function is calling itself for a smaller problem."
+    },
+    {
+        "start": 383.0,
+        "end": 386.0,
+        "text": " That function is calling itself for a smaller problem."
+    },
+    {
+        "start": 386.0,
+        "end": 389.0,
+        "text": " We call them recursive functions."
+    },
+    {
+        "start": 389.0,
+        "end": 394.0,
+        "text": " Recursive functions are the functions that call themselves for smaller problems."
+    },
+    {
+        "start": 394.0,
+        "end": 396.0,
+        "text": " And the concept of recursion,"
+    },
+    {
+        "start": 396.0,
+        "end": 398.0,
+        "text": " let's talk about its definition."
+    },
+    {
+        "start": 398.0,
+        "end": 401.0,
+        "text": " So, it is a method of solving a computational problem"
+    },
+    {
+        "start": 401.0,
+        "end": 406.0,
+        "text": " where the solution depends on the solution to smaller instances of the same problem."
+    },
+    {
+        "start": 406.0,
+        "end": 411.0,
+        "text": " What we discussed is that you solve a small problem first,"
+    },
+    {
+        "start": 411.0,
+        "end": 413.0,
+        "text": " by putting similar calls."
+    },
+    {
+        "start": 413.0,
+        "end": 415.0,
+        "text": " We have to do the same thing."
+    },
+    {
+        "start": 415.0,
+        "end": 417.0,
+        "text": " We will do the small thing first,"
+    },
+    {
+        "start": 417.0,
+        "end": 419.0,
+        "text": " then we will do the big one by doing something."
+    },
+    {
+        "start": 419.0,
+        "end": 424.0,
+        "text": " And one thing that we should know at the time of recursion is our base case."
+    },
+    {
+        "start": 424.0,
+        "end": 428.0,
+        "text": " Base case means final case."
+    },
+    {
+        "start": 428.0,
+        "end": 430.0,
+        "text": " After which the recursion ends."
+    },
+    {
+        "start": 430.0,
+        "end": 432.0,
+        "text": " Where the recursion ends,"
+    },
+    {
+        "start": 432.0,
+        "end": 434.0,
+        "text": " we should know the answer there,"
+    },
+    {
+        "start": 434.0,
+        "end": 436.0,
+        "text": " what we have to do on that step."
+    },
+    {
+        "start": 436.0,
+        "end": 440.0,
+        "text": " We knew that factorial of 0 is always the answer."
+    },
+    {
+        "start": 440.0,
+        "end": 442.0,
+        "text": " We know that it is fixed."
+    },
+    {
+        "start": 442.0,
+        "end": 444.0,
+        "text": " That is why we will say base case."
+    },
+    {
+        "start": 444.0,
+        "end": 446.0,
+        "text": " Here we can stop the recursion."
+    },
+    {
+        "start": 446.0,
+        "end": 450.0,
+        "text": " Now we don't need to remove factorial of minus 1 for recursion."
+    },
+    {
+        "start": 450.0,
+        "end": 454.0,
+        "text": " The case in which we know the answer directly is base case."
+    },
+    {
+        "start": 454.0,
+        "end": 457.0,
+        "text": " We call the functions that call themselves for recursive functions."
+    },
+    {
+        "start": 457.0,
+        "end": 459.0,
+        "text": " And what is recursion?"
+    },
+    {
+        "start": 459.0,
+        "end": 463.0,
+        "text": " Dividing a problem into smaller instances of similar problems."
+    },
+    {
+        "start": 463.0,
+        "end": 466.0,
+        "text": " Now let's understand recursion in a little more detail."
+    },
+    {
+        "start": 466.0,
+        "end": 469.0,
+        "text": " In recursion, whenever you see a flow,"
+    },
+    {
+        "start": 469.0,
+        "end": 471.0,
+        "text": " how will the flow be?"
+    },
+    {
+        "start": 471.0,
+        "end": 474.0,
+        "text": " First we will be travelling in two different directions."
+    },
+    {
+        "start": 474.0,
+        "end": 478.0,
+        "text": " So what is the meaning of travelling in two directions?"
+    },
+    {
+        "start": 478.0,
+        "end": 481.0,
+        "text": " First we will come down from the top."
+    },
+    {
+        "start": 481.0,
+        "end": 483.0,
+        "text": " How will we come down from the top?"
+    },
+    {
+        "start": 483.0,
+        "end": 485.0,
+        "text": " First we are calculating F5,"
+    },
+    {
+        "start": 485.0,
+        "end": 488.0,
+        "text": " then we have calculated F4."
+    },
+    {
+        "start": 488.0,
+        "end": 491.0,
+        "text": " Before calculating F4, we have calculated F3."
+    },
+    {
+        "start": 491.0,
+        "end": 494.0,
+        "text": " Before calculating F3, we have calculated F2."
+    },
+    {
+        "start": 494.0,
+        "end": 497.0,
+        "text": " Before calculating F2, we have calculated F1."
+    },
+    {
+        "start": 497.0,
+        "end": 502.0,
+        "text": " So in this way, we have gone down from the top."
+    },
+    {
+        "start": 502.0,
+        "end": 506.0,
+        "text": " In which direction we have gone towards base case?"
+    },
+    {
+        "start": 508.0,
+        "end": 513.0,
+        "text": " So the first direction is when we go towards a small solution"
+    },
+    {
+        "start": 513.0,
+        "end": 516.0,
+        "text": " where we stop and where we stop,"
+    },
+    {
+        "start": 516.0,
+        "end": 518.0,
+        "text": " towards base case."
+    },
+    {
+        "start": 518.0,
+        "end": 520.0,
+        "text": " As soon as we have touched base case,"
+    },
+    {
+        "start": 520.0,
+        "end": 522.0,
+        "text": " now what we have to do is go back."
+    },
+    {
+        "start": 522.0,
+        "end": 524.0,
+        "text": " What we will do while going back?"
+    },
+    {
+        "start": 524.0,
+        "end": 526.0,
+        "text": " We are sending answers in the direction of the top."
+    },
+    {
+        "start": 526.0,
+        "end": 528.0,
+        "text": " Here we are sending answers."
+    },
+    {
+        "start": 528.0,
+        "end": 530.0,
+        "text": " Here we are sending answers."
+    },
+    {
+        "start": 530.0,
+        "end": 532.0,
+        "text": " Here we are sending answers."
+    },
+    {
+        "start": 532.0,
+        "end": 534.0,
+        "text": " And finally the main function,"
+    },
+    {
+        "start": 534.0,
+        "end": 537.0,
+        "text": " which will have called us the factorial function,"
+    },
+    {
+        "start": 537.0,
+        "end": 539.0,
+        "text": " will send the answer to 120."
+    },
+    {
+        "start": 539.0,
+        "end": 542.0,
+        "text": " So in this direction,"
+    },
+    {
+        "start": 542.0,
+        "end": 544.0,
+        "text": " or in the direction from bottom to up,"
+    },
+    {
+        "start": 544.0,
+        "end": 546.0,
+        "text": " when we have called,"
+    },
+    {
+        "start": 546.0,
+        "end": 550.0,
+        "text": " here we have combined solutions on every step."
+    },
+    {
+        "start": 550.0,
+        "end": 552.0,
+        "text": " While combining solutions,"
+    },
+    {
+        "start": 552.0,
+        "end": 554.0,
+        "text": " we solved a big problem."
+    },
+    {
+        "start": 554.0,
+        "end": 556.0,
+        "text": " When the small problem sent its solution,"
+    },
+    {
+        "start": 556.0,
+        "end": 558.0,
+        "text": " we could calculate F2."
+    },
+    {
+        "start": 558.0,
+        "end": 560.0,
+        "text": " When F2 sent the solution,"
+    },
+    {
+        "start": 560.0,
+        "end": 562.0,
+        "text": " we could calculate F3."
+    },
+    {
+        "start": 562.0,
+        "end": 564.0,
+        "text": " When F3 sent the solution,"
+    },
+    {
+        "start": 564.0,
+        "end": 566.0,
+        "text": " we could calculate F4."
+    },
+    {
+        "start": 566.0,
+        "end": 568.0,
+        "text": " When F4 sent the solution,"
+    },
+    {
+        "start": 568.0,
+        "end": 570.0,
+        "text": " we could calculate F5."
+    },
+    {
+        "start": 570.0,
+        "end": 572.0,
+        "text": " So in two directions, the recursion works."
+    },
+    {
+        "start": 572.0,
+        "end": 574.0,
+        "text": " We will go from top to bottom,"
+    },
+    {
+        "start": 574.0,
+        "end": 577.0,
+        "text": " in which we will convert the big problem into a small problem."
+    },
+    {
+        "start": 577.0,
+        "end": 579.0,
+        "text": " As soon as we are on base case,"
+    },
+    {
+        "start": 579.0,
+        "end": 581.0,
+        "text": " we will go back to the top."
+    },
+    {
+        "start": 581.0,
+        "end": 583.0,
+        "text": " How will we go to the top?"
+    },
+    {
+        "start": 583.0,
+        "end": 585.0,
+        "text": " By combining solutions."
+    },
+    {
+        "start": 585.0,
+        "end": 587.0,
+        "text": " So whatever we have calculated,"
+    },
+    {
+        "start": 587.0,
+        "end": 589.0,
+        "text": " we will send it up,"
+    },
+    {
+        "start": 589.0,
+        "end": 591.0,
+        "text": " then send it up again."
+    },
+    {
+        "start": 591.0,
+        "end": 593.0,
+        "text": " So in this way, our recursion will work."
+    },
+    {
+        "start": 593.0,
+        "end": 595.0,
+        "text": " Now we understood the recursion"
+    },
+    {
+        "start": 595.0,
+        "end": 597.0,
+        "text": " with the help of small diagrams."
+    },
+    {
+        "start": 597.0,
+        "end": 599.0,
+        "text": " So what are the normal function calls?"
+    },
+    {
+        "start": 599.0,
+        "end": 601.0,
+        "text": " We have a main function."
+    },
+    {
+        "start": 601.0,
+        "end": 603.0,
+        "text": " What does the main function do?"
+    },
+    {
+        "start": 603.0,
+        "end": 605.0,
+        "text": " It calls any normal function."
+    },
+    {
+        "start": 605.0,
+        "end": 607.0,
+        "text": " It computes something on the normal function."
+    },
+    {
+        "start": 607.0,
+        "end": 609.0,
+        "text": " It makes a variable,"
+    },
+    {
+        "start": 609.0,
+        "end": 611.0,
+        "text": " it takes out an answer."
+    },
+    {
+        "start": 611.0,
+        "end": 613.0,
+        "text": " Finally, it returns the main function."
+    },
+    {
+        "start": 613.0,
+        "end": 615.0,
+        "text": " With this, it can return"
+    },
+    {
+        "start": 615.0,
+        "end": 617.0,
+        "text": " some value to the main function."
+    },
+    {
+        "start": 617.0,
+        "end": 619.0,
+        "text": " What is the flow in the recursion?"
+    },
+    {
+        "start": 619.0,
+        "end": 621.0,
+        "text": " You will have your main function in the recursion."
+    },
+    {
+        "start": 621.0,
+        "end": 623.0,
+        "text": " It will call your function."
+    },
+    {
+        "start": 623.0,
+        "end": 625.0,
+        "text": " What will the function do?"
+    },
+    {
+        "start": 625.0,
+        "end": 627.0,
+        "text": " It will call itself."
+    },
+    {
+        "start": 627.0,
+        "end": 629.0,
+        "text": " If you call yourself,"
+    },
+    {
+        "start": 629.0,
+        "end": 631.0,
+        "text": " then what will you see in the diagram?"
+    },
+    {
+        "start": 631.0,
+        "end": 633.0,
+        "text": " It called another fun again."
+    },
+    {
+        "start": 633.0,
+        "end": 635.0,
+        "text": " It called another fun again."
+    },
+    {
+        "start": 635.0,
+        "end": 637.0,
+        "text": " It called another function again."
+    },
+    {
+        "start": 637.0,
+        "end": 639.0,
+        "text": " It called another function again."
+    },
+    {
+        "start": 639.0,
+        "end": 641.0,
+        "text": " It calls itself."
+    },
+    {
+        "start": 641.0,
+        "end": 643.0,
+        "text": " Maybe parameters will change,"
+    },
+    {
+        "start": 643.0,
+        "end": 645.0,
+        "text": " values will change."
+    },
+    {
+        "start": 645.0,
+        "end": 647.0,
+        "text": " Finally, there will be a condition"
+    },
+    {
+        "start": 647.0,
+        "end": 649.0,
+        "text": " where your base case will come."
+    },
+    {
+        "start": 649.0,
+        "end": 651.0,
+        "text": " As soon as the base case comes,"
+    },
+    {
+        "start": 651.0,
+        "end": 653.0,
+        "text": " it will return some value to the base."
+    },
+    {
+        "start": 653.0,
+        "end": 655.0,
+        "text": " It will return some value to the base."
+    },
+    {
+        "start": 655.0,
+        "end": 657.0,
+        "text": " It will return some value to the base."
+    },
+    {
+        "start": 657.0,
+        "end": 659.0,
+        "text": " What will it return?"
+    },
+    {
+        "start": 659.0,
+        "end": 661.0,
+        "text": " It will return some value to the base."
+    },
+    {
+        "start": 661.0,
+        "end": 663.0,
+        "text": " And the recursion will look something like this."
+    },
+    {
+        "start": 663.0,
+        "end": 665.0,
+        "text": " So, nothing is there."
+    },
+    {
+        "start": 665.0,
+        "end": 667.0,
+        "text": " We make multiple functions with multiple conditions."
+    },
+    {
+        "start": 667.0,
+        "end": 669.0,
+        "text": " What we did better than that"
+    },
+    {
+        "start": 669.0,
+        "end": 671.0,
+        "text": " is that we made such a function"
+    },
+    {
+        "start": 671.0,
+        "end": 673.0,
+        "text": " that can solve all the conditions."
+    },
+    {
+        "start": 673.0,
+        "end": 675.0,
+        "text": " And again and again and again"
+    },
+    {
+        "start": 675.0,
+        "end": 677.0,
+        "text": " we will call for small problems."
+    },
+    {
+        "start": 677.0,
+        "end": 679.0,
+        "text": " So, we will call that process as Recursion."
+    },
+    {
+        "start": 679.0,
+        "end": 681.0,
+        "text": " Now, if I have to summarize Recursion"
+    },
+    {
+        "start": 681.0,
+        "end": 683.0,
+        "text": " in three steps,"
+    },
+    {
+        "start": 683.0,
+        "end": 685.0,
+        "text": " then the first step will be"
+    },
+    {
+        "start": 685.0,
+        "end": 687.0,
+        "text": " defining the base case."
+    },
+    {
+        "start": 687.0,
+        "end": 689.0,
+        "text": " You should know"
+    },
+    {
+        "start": 689.0,
+        "end": 691.0,
+        "text": " what will be the base case in your Recursion."
+    },
+    {
+        "start": 691.0,
+        "end": 693.0,
+        "text": " The second step will be"
+    },
+    {
+        "start": 693.0,
+        "end": 695.0,
+        "text": " that you will do something"
+    },
+    {
+        "start": 695.0,
+        "end": 697.0,
+        "text": " in the current function."
+    },
+    {
+        "start": 697.0,
+        "end": 699.0,
+        "text": " This can be anything."
+    },
+    {
+        "start": 699.0,
+        "end": 701.0,
+        "text": " Depending upon the problem."
+    },
+    {
+        "start": 701.0,
+        "end": 703.0,
+        "text": " The work is for our factorial function"
+    },
+    {
+        "start": 703.0,
+        "end": 705.0,
+        "text": " that we have to do this"
+    },
+    {
+        "start": 705.0,
+        "end": 707.0,
+        "text": " on every step."
+    },
+    {
+        "start": 707.0,
+        "end": 709.0,
+        "text": " And the third is"
+    },
+    {
+        "start": 709.0,
+        "end": 711.0,
+        "text": " calling the inner function."
+    },
+    {
+        "start": 711.0,
+        "end": 713.0,
+        "text": " For us, the inner function is"
+    },
+    {
+        "start": 713.0,
+        "end": 715.0,
+        "text": " F of n-1."
+    },
+    {
+        "start": 715.0,
+        "end": 717.0,
+        "text": " So, whatever the inner function is"
+    },
+    {
+        "start": 717.0,
+        "end": 719.0,
+        "text": " we have to call it"
+    },
+    {
+        "start": 719.0,
+        "end": 721.0,
+        "text": " and make sure that the inner function"
+    },
+    {
+        "start": 721.0,
+        "end": 723.0,
+        "text": " is working."
+    },
+    {
+        "start": 723.0,
+        "end": 725.0,
+        "text": " For factorial of n,"
+    },
+    {
+        "start": 725.0,
+        "end": 727.0,
+        "text": " we have multiplied by f of n-1."
+    },
+    {
+        "start": 727.0,
+        "end": 729.0,
+        "text": " Now, we have called it"
+    },
+    {
+        "start": 729.0,
+        "end": 731.0,
+        "text": " and assumed that factorial of"
+    },
+    {
+        "start": 731.0,
+        "end": 733.0,
+        "text": " n-1 will do its full work."
+    },
+    {
+        "start": 733.0,
+        "end": 735.0,
+        "text": " By calling this"
+    },
+    {
+        "start": 735.0,
+        "end": 737.0,
+        "text": " and making assumptions, we know"
+    },
+    {
+        "start": 737.0,
+        "end": 739.0,
+        "text": " that factorial of n-1 will give us the right answer."
+    },
+    {
+        "start": 739.0,
+        "end": 741.0,
+        "text": " Then we will multiply it with n."
+    },
+    {
+        "start": 741.0,
+        "end": 743.0,
+        "text": " So, we will get the right answer for f of n."
+    },
+    {
+        "start": 743.0,
+        "end": 745.0,
+        "text": " If we have read the PMI in Math,"
+    },
+    {
+        "start": 745.0,
+        "end": 747.0,
+        "text": " the principle of mathematical induction"
+    },
+    {
+        "start": 747.0,
+        "end": 749.0,
+        "text": " was also there."
+    },
+    {
+        "start": 749.0,
+        "end": 751.0,
+        "text": " What we used to do?"
+    },
+    {
+        "start": 751.0,
+        "end": 753.0,
+        "text": " We used to get the solution for n is equal to 1."
+    },
+    {
+        "start": 753.0,
+        "end": 755.0,
+        "text": " Then we assumed that"
+    },
+    {
+        "start": 755.0,
+        "end": 757.0,
+        "text": " our solution is absolutely right for x."
+    },
+    {
+        "start": 757.0,
+        "end": 759.0,
+        "text": " Then we used to try to get the solution"
+    },
+    {
+        "start": 759.0,
+        "end": 761.0,
+        "text": " for x plus 1."
+    },
+    {
+        "start": 761.0,
+        "end": 763.0,
+        "text": " That would also be correct assuming this is correct."
+    },
+    {
+        "start": 763.0,
+        "end": 765.0,
+        "text": " So, if the principle of mathematical induction"
+    },
+    {
+        "start": 765.0,
+        "end": 767.0,
+        "text": " is not studied in Math,"
+    },
+    {
+        "start": 767.0,
+        "end": 769.0,
+        "text": " then this is the same approach"
+    },
+    {
+        "start": 769.0,
+        "end": 771.0,
+        "text": " that I have told in the terms of Math."
+    },
+    {
+        "start": 771.0,
+        "end": 773.0,
+        "text": " We can solve it in that way."
+    },
+    {
+        "start": 773.0,
+        "end": 775.0,
+        "text": " There are three steps. I will tell you again."
+    },
+    {
+        "start": 775.0,
+        "end": 777.0,
+        "text": " Find out the base case."
+    },
+    {
+        "start": 777.0,
+        "end": 779.0,
+        "text": " If we know the value of the case"
+    },
+    {
+        "start": 779.0,
+        "end": 781.0,
+        "text": " for which we know what will be the value of n."
+    },
+    {
+        "start": 781.0,
+        "end": 783.0,
+        "text": " The second step is that we will do some work"
+    },
+    {
+        "start": 783.0,
+        "end": 785.0,
+        "text": " on every level."
+    },
+    {
+        "start": 785.0,
+        "end": 787.0,
+        "text": " The third step is that we have to"
+    },
+    {
+        "start": 787.0,
+        "end": 789.0,
+        "text": " trust the inner calls"
+    },
+    {
+        "start": 789.0,
+        "end": 791.0,
+        "text": " that they will get the solution for us."
+    },
+    {
+        "start": 791.0,
+        "end": 793.0,
+        "text": " These are the three steps to"
+    },
+    {
+        "start": 793.0,
+        "end": 795.0,
+        "text": " complete any recursive function"
+    },
+    {
+        "start": 795.0,
+        "end": 797.0,
+        "text": " or any recursion."
+    },
+    {
+        "start": 797.0,
+        "end": 799.0,
+        "text": " Now, the conceptually"
+    },
+    {
+        "start": 799.0,
+        "end": 801.0,
+        "text": " I have explained the recursion"
+    },
+    {
+        "start": 801.0,
+        "end": 803.0,
+        "text": " as well as I have explained it well."
+    },
+    {
+        "start": 803.0,
+        "end": 805.0,
+        "text": " The best thing for us is"
+    },
+    {
+        "start": 805.0,
+        "end": 807.0,
+        "text": " that we will solve"
+    },
+    {
+        "start": 807.0,
+        "end": 809.0,
+        "text": " one or two codes and problems"
+    },
+    {
+        "start": 809.0,
+        "end": 811.0,
+        "text": " with recursion."
+    },
+    {
+        "start": 811.0,
+        "end": 813.0,
+        "text": " If we have a little doubt,"
+    },
+    {
+        "start": 813.0,
+        "end": 815.0,
+        "text": " then we can see this explanation"
+    },
+    {
+        "start": 815.0,
+        "end": 817.0,
+        "text": " again in the context of those problems."
+    },
+    {
+        "start": 817.0,
+        "end": 819.0,
+        "text": " So, we will see the theoretical explanation"
+    },
+    {
+        "start": 819.0,
+        "end": 821.0,
+        "text": " once again after writing the practical code."
+    },
+    {
+        "start": 821.0,
+        "end": 823.0,
+        "text": " So, more recursion"
+    },
+    {
+        "start": 823.0,
+        "end": 825.0,
+        "text": " will be cleared very well."
+    }
+]

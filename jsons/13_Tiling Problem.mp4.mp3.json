@@ -1,0 +1,3442 @@
+{
+    "chunks": [
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 0.0,
+            "end": 4.0,
+            "text": " The next problem is the tiling problem."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 4.0,
+            "end": 9.0,
+            "text": " We apply the tiles on the floor of the house."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 9.0,
+            "end": 12.0,
+            "text": " And the first one is very beautiful."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 12.0,
+            "end": 15.0,
+            "text": " We are doing something similar with the help of the code."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 15.0,
+            "end": 19.0,
+            "text": " We will be given the size of a floor, a first or a board."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 19.0,
+            "end": 25.0,
+            "text": " And we have to tell us how much tiles we can apply."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 25.0,
+            "end": 28.0,
+            "text": " So that the whole first is covered."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 28.0,
+            "end": 32.0,
+            "text": " So we have to apply the tiles on the first one."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 32.0,
+            "end": 34.0,
+            "text": " That is why the name of the problem is the tiling problem."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 34.0,
+            "end": 36.0,
+            "text": " So let's understand the problem first."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 36.0,
+            "end": 38.0,
+            "text": " We have given a board of 2xn."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 38.0,
+            "end": 44.0,
+            "text": " We can call it a board or a floor or a first."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 44.0,
+            "end": 45.0,
+            "text": " And how will it look?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 45.0,
+            "end": 48.0,
+            "text": " This first will look something like this."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 48.0,
+            "end": 51.0,
+            "text": " This side is our length 2."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 51.0,
+            "end": 55.0,
+            "text": " And this side is the length of n."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 55.0,
+            "end": 57.0,
+            "text": " I have given n in question."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 57.0,
+            "end": 60.0,
+            "text": " I have to write a function, a recursive function."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 60.0,
+            "end": 64.0,
+            "text": " The parameter which can solve the tiling problem is n."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 64.0,
+            "end": 66.0,
+            "text": " I have to pass n in that."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 66.0,
+            "end": 68.0,
+            "text": " And I have to fill this first with tiles."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 68.0,
+            "end": 69.0,
+            "text": " What is the size of the first?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 69.0,
+            "end": 71.0,
+            "text": " The size of the first is 2xn."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 71.0,
+            "end": 75.0,
+            "text": " That is its breadth and the length of n is this side."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 75.0,
+            "end": 78.0,
+            "text": " I have given the first and the tiles."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 78.0,
+            "end": 80.0,
+            "text": " I have given the size of a single tile."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 80.0,
+            "end": 83.0,
+            "text": " The size of a single tile is 2x1."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 83.0,
+            "end": 84.0,
+            "text": " How will this tile look?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 84.0,
+            "end": 86.0,
+            "text": " This tile will look something like this."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 90.0,
+            "end": 95.0,
+            "text": " The side of the tile is equal to 2 and this side is equal to 1."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 95.0,
+            "end": 97.0,
+            "text": " So this will be my entire tile."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 97.0,
+            "end": 101.0,
+            "text": " Now if I want, I can take the entire tile and put it on it."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 101.0,
+            "end": 102.0,
+            "text": " So what will happen?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 102.0,
+            "end": 104.0,
+            "text": " This tile will come here in this way."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 104.0,
+            "end": 107.0,
+            "text": " If I put another tile, it will come in this way."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 107.0,
+            "end": 109.0,
+            "text": " It will cover the entire."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 109.0,
+            "end": 112.0,
+            "text": " Why? Because this side of this is its length 2."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 112.0,
+            "end": 115.0,
+            "text": " And my first is its length 2."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 115.0,
+            "end": 118.0,
+            "text": " So this is a very important thing I have noted in the question."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 118.0,
+            "end": 122.0,
+            "text": " That my floor is also of 2xn and my tile is of 2x1."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 122.0,
+            "end": 125.0,
+            "text": " So this side is common in this."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 125.0,
+            "end": 128.0,
+            "text": " That is how I will put this tile on my floor."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 128.0,
+            "end": 132.0,
+            "text": " So this will cover my entire tile from one side."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 132.0,
+            "end": 136.0,
+            "text": " For the rest of the floor, I can put another tile and then another tile."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 136.0,
+            "end": 138.0,
+            "text": " So in this way, I can send tiles."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 138.0,
+            "end": 143.0,
+            "text": " Another way to send tiles is to send one tile like this"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 143.0,
+            "end": 145.0,
+            "text": " and the other one like this."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 145.0,
+            "end": 148.0,
+            "text": " Then send the third tile like this and the fourth one like this."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 148.0,
+            "end": 153.0,
+            "text": " So I have to count the number of ways to tile the given board using 2x1 tiles."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 153.0,
+            "end": 158.0,
+            "text": " That is, I can send my tiles horizontally or vertically."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 158.0,
+            "end": 162.0,
+            "text": " It means I have sent my tile horizontally."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 162.0,
+            "end": 164.0,
+            "text": " First my tile will come like this."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 164.0,
+            "end": 166.0,
+            "text": " It has covered this much area."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 166.0,
+            "end": 169.0,
+            "text": " Second tile will come up like this on the floor."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 169.0,
+            "end": 171.0,
+            "text": " It has covered this much."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 171.0,
+            "end": 173.0,
+            "text": " Third one will come here."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 173.0,
+            "end": 175.0,
+            "text": " It has covered this much."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 175.0,
+            "end": 177.0,
+            "text": " Fourth one will come here."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 177.0,
+            "end": 179.0,
+            "text": " It has covered this much."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 179.0,
+            "end": 182.0,
+            "text": " I have sent these tiles horizontally."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 182.0,
+            "end": 184.0,
+            "text": " That is, I have kept them side by side."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 184.0,
+            "end": 189.0,
+            "text": " And because my tile's length is this side of my tile is 2."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 189.0,
+            "end": 191.0,
+            "text": " Then this side is also 2."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 191.0,
+            "end": 194.0,
+            "text": " This side is equal to 1."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 194.0,
+            "end": 196.0,
+            "text": " This side is equal to 1."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 196.0,
+            "end": 198.0,
+            "text": " This side is equal to 1."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 198.0,
+            "end": 202.0,
+            "text": " If one has covered this much and one has covered this much,"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 202.0,
+            "end": 203.0,
+            "text": " then what is total part?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 203.0,
+            "end": 205.0,
+            "text": " This total part is equal to 2."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 205.0,
+            "end": 206.0,
+            "text": " Which is my floor length."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 206.0,
+            "end": 211.0,
+            "text": " So from here I understood that if I send my tiles horizontally,"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 211.0,
+            "end": 216.0,
+            "text": " then I would need two tiles to cover one part of my tile."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 216.0,
+            "end": 218.0,
+            "text": " And what does it mean to send it vertically?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 218.0,
+            "end": 221.0,
+            "text": " It means I should send my tiles in this order."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 221.0,
+            "end": 223.0,
+            "text": " I mean I should send them long."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 223.0,
+            "end": 226.0,
+            "text": " So here the length of the tile is equal to 2."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 226.0,
+            "end": 229.0,
+            "text": " And this length is equal to 1."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 229.0,
+            "end": 232.0,
+            "text": " Now the tile that will be next can come like this."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 232.0,
+            "end": 234.0,
+            "text": " I mean I can send it vertically again."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 234.0,
+            "end": 238.0,
+            "text": " Or I can send it vertically once and then send it horizontally."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 238.0,
+            "end": 242.0,
+            "text": " I can send my tiles horizontally like this."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 242.0,
+            "end": 246.0,
+            "text": " So in this way I will get two tiles horizontally."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 246.0,
+            "end": 249.0,
+            "text": " So I can make a combination of my tiles in different fashion."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 249.0,
+            "end": 253.0,
+            "text": " I can send some tiles vertically, some tiles horizontally."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 253.0,
+            "end": 257.0,
+            "text": " And I have to fill my entire floor with different combinations of these tiles."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 257.0,
+            "end": 261.0,
+            "text": " And then I have to find out the total number of ways to fill my floor."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 261.0,
+            "end": 265.0,
+            "text": " So we can place two tiles horizontally or vertically."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 265.0,
+            "end": 270.0,
+            "text": " Now for this, first let's take an example."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 270.0,
+            "end": 273.0,
+            "text": " Let's take an example for n is equal to 3."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 273.0,
+            "end": 280.0,
+            "text": " Here n is equal to 3 means that the size of my floor or board will be 2 x 3."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 280.0,
+            "end": 283.0,
+            "text": " So my board will look something like this."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 283.0,
+            "end": 289.0,
+            "text": " Here this length is equal to 3 and this length is equal to 2."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 289.0,
+            "end": 292.0,
+            "text": " So what combinations will be left to fill tiles?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 292.0,
+            "end": 297.0,
+            "text": " The first combination can be that I should send three tiles one after another."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 297.0,
+            "end": 302.0,
+            "text": " That means if I send three tiles in this way,"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 302.0,
+            "end": 306.0,
+            "text": " then this length will be equal to 2."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 306.0,
+            "end": 308.0,
+            "text": " This length of one tile is equal to 1."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 308.0,
+            "end": 310.0,
+            "text": " This length of one tile is equal to 1."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 310.0,
+            "end": 312.0,
+            "text": " This length of one tile is equal to 1."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 312.0,
+            "end": 316.0,
+            "text": " So my entire length will be equal to 3."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 316.0,
+            "end": 317.0,
+            "text": " So what will be this?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 317.0,
+            "end": 318.0,
+            "text": " The combination of 2 x 3."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 318.0,
+            "end": 323.0,
+            "text": " So one way can be that sending tiles is another way."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 323.0,
+            "end": 327.0,
+            "text": " In the second way, I can place my tile horizontally."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 327.0,
+            "end": 331.0,
+            "text": " That means first I placed it like this and then I sent another tile like this."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 331.0,
+            "end": 333.0,
+            "text": " So I used two tiles."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 333.0,
+            "end": 335.0,
+            "text": " Now how much area will be covered in this length?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 335.0,
+            "end": 339.0,
+            "text": " This length is equal to 2 because I have sent them horizontally while laying."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 339.0,
+            "end": 341.0,
+            "text": " This is equal to 1."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 341.0,
+            "end": 343.0,
+            "text": " This is equal to 1 again."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 343.0,
+            "end": 345.0,
+            "text": " So this total area is equal to 2."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 345.0,
+            "end": 348.0,
+            "text": " The entire area above is 2 x 2."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 348.0,
+            "end": 350.0,
+            "text": " I have to make it 3."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 350.0,
+            "end": 354.0,
+            "text": " So what I will do is I can place the next tile vertically."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 354.0,
+            "end": 357.0,
+            "text": " As soon as I have placed it vertically, this length is equal to 1."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 357.0,
+            "end": 359.0,
+            "text": " This length is equal to 2."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 359.0,
+            "end": 360.0,
+            "text": " So what happened?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 360.0,
+            "end": 362.0,
+            "text": " This total length of this one is 3."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 362.0,
+            "end": 364.0,
+            "text": " This total length of this one is 2."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 364.0,
+            "end": 366.0,
+            "text": " So this is 2 x 3."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 366.0,
+            "end": 369.0,
+            "text": " So this is my second way of sending tiles."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 369.0,
+            "end": 371.0,
+            "text": " What can be the third way here?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 371.0,
+            "end": 375.0,
+            "text": " The third way is that instead of placing the first tile horizontally,"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 375.0,
+            "end": 378.0,
+            "text": " I place the first tile vertically."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 378.0,
+            "end": 380.0,
+            "text": " I will place it like this."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 380.0,
+            "end": 383.0,
+            "text": " Then I will send the two tiles horizontally."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 383.0,
+            "end": 385.0,
+            "text": " I have sent this one like this."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 385.0,
+            "end": 388.0,
+            "text": " This gap in the middle is what we have to ignore."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 388.0,
+            "end": 390.0,
+            "text": " The gap in the middle is like this."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 390.0,
+            "end": 393.0,
+            "text": " When we place the tiles, there will be no gap in the middle."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 393.0,
+            "end": 396.0,
+            "text": " We have to ignore this space in our figures."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 396.0,
+            "end": 400.0,
+            "text": " I just came to a clarity that what is the alignment of the tiles?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 400.0,
+            "end": 402.0,
+            "text": " They are vertically and horizontally."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 402.0,
+            "end": 403.0,
+            "text": " What is the alignment after that?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 403.0,
+            "end": 405.0,
+            "text": " That is why this gap is coming."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 405.0,
+            "end": 407.0,
+            "text": " So what I did in the third combination?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 407.0,
+            "end": 409.0,
+            "text": " I sent the first one vertically."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 409.0,
+            "end": 411.0,
+            "text": " Then I sent the two horizontally."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 411.0,
+            "end": 413.0,
+            "text": " So this length of this one is 1."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 413.0,
+            "end": 414.0,
+            "text": " Here is 2."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 414.0,
+            "end": 416.0,
+            "text": " This length of this one is 2."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 416.0,
+            "end": 417.0,
+            "text": " Here is 1."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 417.0,
+            "end": 418.0,
+            "text": " Here is 1."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 418.0,
+            "end": 420.0,
+            "text": " So how much total will be?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 420.0,
+            "end": 422.0,
+            "text": " This much area."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 422.0,
+            "end": 423.0,
+            "text": " So total will be equal to 3."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 423.0,
+            "end": 424.0,
+            "text": " This much is equal to 2."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 424.0,
+            "end": 425.0,
+            "text": " So this will be the final."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 425.0,
+            "end": 426.0,
+            "text": " I have 2 x 3."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 426.0,
+            "end": 429.0,
+            "text": " And this will be my way number 3."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 429.0,
+            "end": 431.0,
+            "text": " These are the three ways."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 431.0,
+            "end": 434.0,
+            "text": " There is no other way other than filling the 2 x 3 board with these tiles."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 434.0,
+            "end": 437.0,
+            "text": " So can I say that for n is equal to 3,"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 437.0,
+            "end": 440.0,
+            "text": " my ways is equal to 3."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 440.0,
+            "end": 442.0,
+            "text": " I will summarize this a little more."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 442.0,
+            "end": 444.0,
+            "text": " I had a board of 2 x 3."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 444.0,
+            "end": 447.0,
+            "text": " I have to fill the tiles on which I have to place the tiles."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 447.0,
+            "end": 450.0,
+            "text": " The first way was that I place the three tiles vertically."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 450.0,
+            "end": 453.0,
+            "text": " Because this side of this tile is 2."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 453.0,
+            "end": 455.0,
+            "text": " When I place it vertically,"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 455.0,
+            "end": 458.0,
+            "text": " this side will fill the entire floor."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 458.0,
+            "end": 462.0,
+            "text": " And this will fill the three tiles one by one."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 462.0,
+            "end": 466.0,
+            "text": " The second way was that I place the first two horizontally."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 466.0,
+            "end": 468.0,
+            "text": " So this side is 2 and this side is 1."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 468.0,
+            "end": 471.0,
+            "text": " So I will fill this entire side one by one."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 471.0,
+            "end": 474.0,
+            "text": " And these two will fill the two thirds of this."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 474.0,
+            "end": 478.0,
+            "text": " After that I will place the next tile vertically."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 478.0,
+            "end": 480.0,
+            "text": " So the upper part will be equal to 1."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 480.0,
+            "end": 482.0,
+            "text": " These two and these one."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 482.0,
+            "end": 484.0,
+            "text": " We will make these two together and make three."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 484.0,
+            "end": 486.0,
+            "text": " So this whole part will be covered."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 486.0,
+            "end": 488.0,
+            "text": " And there are two covers on the side."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 488.0,
+            "end": 490.0,
+            "text": " So this will be my second way."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 490.0,
+            "end": 492.0,
+            "text": " The third way is that I place this one vertically"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 492.0,
+            "end": 494.0,
+            "text": " in front of the horizontal ones."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 494.0,
+            "end": 496.0,
+            "text": " So here my vertical side will come"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 496.0,
+            "end": 498.0,
+            "text": " and here my two horizontal tiles"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 498.0,
+            "end": 500.0,
+            "text": " will be covered completely."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 500.0,
+            "end": 502.0,
+            "text": " Now let's make a strategy for this."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 502.0,
+            "end": 504.0,
+            "text": " To write a function for this,"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 504.0,
+            "end": 506.0,
+            "text": " we need to know three things."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 506.0,
+            "end": 508.0,
+            "text": " First of all we should know what is going to be our base case."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 508.0,
+            "end": 510.0,
+            "text": " Second we should know what we are going to do."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 510.0,
+            "end": 512.0,
+            "text": " Third we should know that we will call"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 512.0,
+            "end": 514.0,
+            "text": " our inner function."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 514.0,
+            "end": 516.0,
+            "text": " So let's talk about the base case first."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 516.0,
+            "end": 518.0,
+            "text": " What can be the base case?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 518.0,
+            "end": 520.0,
+            "text": " The base case is that"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 520.0,
+            "end": 522.0,
+            "text": " the size of the floor is given to 0."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 522.0,
+            "end": 524.0,
+            "text": " So what will be the size of the floor?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 524.0,
+            "end": 526.0,
+            "text": " 2x0."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 526.0,
+            "end": 528.0,
+            "text": " So 2x0 means that the floor"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 528.0,
+            "end": 530.0,
+            "text": " will not be a line."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 530.0,
+            "end": 532.0,
+            "text": " Here it will be 2."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 532.0,
+            "end": 534.0,
+            "text": " The length will be equal to 0."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 534.0,
+            "end": 536.0,
+            "text": " So for the floor of 2x0,"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 536.0,
+            "end": 538.0,
+            "text": " I have ways 1."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 538.0,
+            "end": 540.0,
+            "text": " Why did I write ways 1?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 540.0,
+            "end": 542.0,
+            "text": " Why didn't I write 0?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 542.0,
+            "end": 544.0,
+            "text": " These are not ways 0."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 544.0,
+            "end": 546.0,
+            "text": " Because here we will place no tiles."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 546.0,
+            "end": 548.0,
+            "text": " I mean there is no tile."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 548.0,
+            "end": 550.0,
+            "text": " There is a way to not place any tiles."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 550.0,
+            "end": 552.0,
+            "text": " That I don't have any tiles here."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 552.0,
+            "end": 554.0,
+            "text": " This is one way to satisfy my condition."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 554.0,
+            "end": 556.0,
+            "text": " That is why we take the"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 556.0,
+            "end": 558.0,
+            "text": " 1 in this question."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 558.0,
+            "end": 560.0,
+            "text": " Next, what can we see?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 560.0,
+            "end": 562.0,
+            "text": " Next we can see that n is equal to 1."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 562.0,
+            "end": 564.0,
+            "text": " For n is equal to 1,"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 564.0,
+            "end": 566.0,
+            "text": " the size of the floor will be 2x1."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 566.0,
+            "end": 568.0,
+            "text": " If I talk about 2x1,"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 568.0,
+            "end": 570.0,
+            "text": " then my 2x1 will look something like this."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 570.0,
+            "end": 572.0,
+            "text": " In which this side will be equal to"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 572.0,
+            "end": 574.0,
+            "text": " 2 and this side will be equal to 1."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 574.0,
+            "end": 576.0,
+            "text": " Now if I talk about the size of the tile,"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 576.0,
+            "end": 578.0,
+            "text": " then my tile also looks something like this"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 578.0,
+            "end": 580.0,
+            "text": " in the vertical format."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 580.0,
+            "end": 582.0,
+            "text": " That is, this side is 2 and this side is 1."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 582.0,
+            "end": 584.0,
+            "text": " And my tile size is 2x1."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 584.0,
+            "end": 586.0,
+            "text": " So there will be one way to place it."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 586.0,
+            "end": 588.0,
+            "text": " There will be one way."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 588.0,
+            "end": 590.0,
+            "text": " What will be the way?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 590.0,
+            "end": 592.0,
+            "text": " That I will directly place the vertical on the floor."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 592.0,
+            "end": 594.0,
+            "text": " If I try to place it horizontally,"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 594.0,
+            "end": 596.0,
+            "text": " then what will happen?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 596.0,
+            "end": 598.0,
+            "text": " My tile will be placed in this way."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 598.0,
+            "end": 600.0,
+            "text": " And this part of my tile will be"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 600.0,
+            "end": 602.0,
+            "text": " coming out of my floor."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 602.0,
+            "end": 604.0,
+            "text": " So what will happen?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 604.0,
+            "end": 606.0,
+            "text": " I will have to place it vertically."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 606.0,
+            "end": 608.0,
+            "text": " So if there is only one way,"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 608.0,
+            "end": 610.0,
+            "text": " then how many ways will be there?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 610.0,
+            "end": 612.0,
+            "text": " Number of ways."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 612.0,
+            "end": 614.0,
+            "text": " That is, number of ways will be equal to 1."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 614.0,
+            "end": 616.0,
+            "text": " What should I take next?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 616.0,
+            "end": 618.0,
+            "text": " Next I will take n equal to 2."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 618.0,
+            "end": 620.0,
+            "text": " As soon as I take n,"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 620.0,
+            "end": 622.0,
+            "text": " the size of my floor will be 2x2."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 622.0,
+            "end": 624.0,
+            "text": " The floor of 2x2 will look something like this."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 624.0,
+            "end": 626.0,
+            "text": " This side of the floor is also equal to 2."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 626.0,
+            "end": 628.0,
+            "text": " And this side of the floor is also equal to 2."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 628.0,
+            "end": 630.0,
+            "text": " Now 2x2 is"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 630.0,
+            "end": 632.0,
+            "text": " the way to place the tiles."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 632.0,
+            "end": 634.0,
+            "text": " So what can be the ways?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 634.0,
+            "end": 636.0,
+            "text": " The first combination is that"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 636.0,
+            "end": 638.0,
+            "text": " I will place the first tile vertically."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 638.0,
+            "end": 640.0,
+            "text": " That is, I placed the first tile"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 640.0,
+            "end": 642.0,
+            "text": " in this way."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 642.0,
+            "end": 644.0,
+            "text": " And then I placed the second tile"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 644.0,
+            "end": 646.0,
+            "text": " vertically."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 646.0,
+            "end": 648.0,
+            "text": " That is, I placed it in this way."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 648.0,
+            "end": 650.0,
+            "text": " So what happened? This side was 1."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 650.0,
+            "end": 652.0,
+            "text": " This side was 1."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 652.0,
+            "end": 654.0,
+            "text": " This side was 2 on both sides."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 654.0,
+            "end": 656.0,
+            "text": " So this side will be 2."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 656.0,
+            "end": 658.0,
+            "text": " This side will also be 2."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 658.0,
+            "end": 660.0,
+            "text": " So this is my one way."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 660.0,
+            "end": 662.0,
+            "text": " The second way is"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 662.0,
+            "end": 664.0,
+            "text": " that I place the first tile horizontally."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 664.0,
+            "end": 666.0,
+            "text": " I placed it horizontally."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 666.0,
+            "end": 668.0,
+            "text": " Then I will have to place one more"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 668.0,
+            "end": 670.0,
+            "text": " under it."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 670.0,
+            "end": 672.0,
+            "text": " Because as soon as you place it horizontally,"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 672.0,
+            "end": 674.0,
+            "text": " another tile will have to be placed under it."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 674.0,
+            "end": 676.0,
+            "text": " If I place it horizontally,"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 676.0,
+            "end": 678.0,
+            "text": " we can never place it vertically."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 678.0,
+            "end": 680.0,
+            "text": " Because the second vertical tile"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 680.0,
+            "end": 682.0,
+            "text": " will start coming out of my floor."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 682.0,
+            "end": 684.0,
+            "text": " Because the length of the floor is 2."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 684.0,
+            "end": 686.0,
+            "text": " So in the second way,"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 686.0,
+            "end": 688.0,
+            "text": " I placed it vertically."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 688.0,
+            "end": 690.0,
+            "text": " This side placed it vertically."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 690.0,
+            "end": 692.0,
+            "text": " The total becomes 2x2."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 692.0,
+            "end": 694.0,
+            "text": " And this is my second way."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 694.0,
+            "end": 696.0,
+            "text": " So there will be no other way"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 696.0,
+            "end": 698.0,
+            "text": " to fill 2x2."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 698.0,
+            "end": 700.0,
+            "text": " So here, the total number of ways"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 700.0,
+            "end": 702.0,
+            "text": " that come out of this tile"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 702.0,
+            "end": 704.0,
+            "text": " are 2."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 704.0,
+            "end": 706.0,
+            "text": " So I will write"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 706.0,
+            "end": 708.0,
+            "text": " that ways are equal to 2."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 708.0,
+            "end": 710.0,
+            "text": " And for n is equal to 3,"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 710.0,
+            "end": 712.0,
+            "text": " I found out that"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 712.0,
+            "end": 714.0,
+            "text": " my ways were equal to 3."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 714.0,
+            "end": 716.0,
+            "text": " So what can be the base case?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 716.0,
+            "end": 718.0,
+            "text": " My base case is that"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 718.0,
+            "end": 720.0,
+            "text": " whenever my n is 0,"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 720.0,
+            "end": 722.0,
+            "text": " I know that I will have one way"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 722.0,
+            "end": 724.0,
+            "text": " to find out the easiest way."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 724.0,
+            "end": 726.0,
+            "text": " If n is 0, then there is one way"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 726.0,
+            "end": 728.0,
+            "text": " to place the tile."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 728.0,
+            "end": 730.0,
+            "text": " And when n is value 1,"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 730.0,
+            "end": 732.0,
+            "text": " there is one way to place the tile"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 732.0,
+            "end": 734.0,
+            "text": " vertically."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 734.0,
+            "end": 736.0,
+            "text": " The logic of the next one"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 736.0,
+            "end": 738.0,
+            "text": " now I have to figure out"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 738.0,
+            "end": 740.0,
+            "text": " how the logic of the next one will be."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 740.0,
+            "end": 742.0,
+            "text": " How will my work be."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 742.0,
+            "end": 744.0,
+            "text": " So on every level of my recursion,"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 744.0,
+            "end": 746.0,
+            "text": " I have a choice."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 746.0,
+            "end": 748.0,
+            "text": " Either I can place my tile vertically"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 748.0,
+            "end": 750.0,
+            "text": " or"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 750.0,
+            "end": 752.0,
+            "text": " I can place my tile horizontally."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 752.0,
+            "end": 754.0,
+            "text": " There are two choices."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 754.0,
+            "end": 756.0,
+            "text": " If I want to place the X number of tiles"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 756.0,
+            "end": 758.0,
+            "text": " to fill the floor."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 758.0,
+            "end": 760.0,
+            "text": " So what can I see on every level?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 760.0,
+            "end": 762.0,
+            "text": " I can see that the tile"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 762.0,
+            "end": 764.0,
+            "text": " I am placing here will be vertically"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 764.0,
+            "end": 766.0,
+            "text": " placed in this order"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 766.0,
+            "end": 768.0,
+            "text": " or it will be horizontally placed."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 768.0,
+            "end": 770.0,
+            "text": " So I have to take a choice"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 770.0,
+            "end": 772.0,
+            "text": " on every level."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 772.0,
+            "end": 774.0,
+            "text": " Let's assume that the floor"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 774.0,
+            "end": 776.0,
+            "text": " looks like this."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 776.0,
+            "end": 778.0,
+            "text": " This side is equal to 2"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 778.0,
+            "end": 780.0,
+            "text": " and this side is equal to"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 780.0,
+            "end": 782.0,
+            "text": " my n."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 782.0,
+            "end": 784.0,
+            "text": " And what did I do?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 784.0,
+            "end": 786.0,
+            "text": " I took a choice vertically."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 786.0,
+            "end": 788.0,
+            "text": " I took a decision"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 788.0,
+            "end": 790.0,
+            "text": " to place my tile like this."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 790.0,
+            "end": 792.0,
+            "text": " So what will happen?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 792.0,
+            "end": 794.0,
+            "text": " From this length,"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 794.0,
+            "end": 796.0,
+            "text": " from this side,"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 796.0,
+            "end": 798.0,
+            "text": " as soon as I placed my tile vertically,"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 798.0,
+            "end": 800.0,
+            "text": " how much will it be placed?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 800.0,
+            "end": 802.0,
+            "text": " How much will it be placed?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 802.0,
+            "end": 804.0,
+            "text": " It will cover the length of the tile."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 804.0,
+            "end": 806.0,
+            "text": " So how much will be left?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 806.0,
+            "end": 808.0,
+            "text": " It will be equal to the length of the tile."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 808.0,
+            "end": 810.0,
+            "text": " What did I do?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 810.0,
+            "end": 812.0,
+            "text": " If I took the length of the tile"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 812.0,
+            "end": 814.0,
+            "text": " then how much will be left?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 814.0,
+            "end": 816.0,
+            "text": " How much will be left?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 816.0,
+            "end": 818.0,
+            "text": " How much will be left?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 818.0,
+            "end": 820.0,
+            "text": " So as soon as I took the decision"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 820.0,
+            "end": 822.0,
+            "text": " to place the tile vertically,"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 822.0,
+            "end": 824.0,
+            "text": " what work did I have?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 824.0,
+            "end": 826.0,
+            "text": " I have a choice to fill"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 826.0,
+            "end": 828.0,
+            "text": " the tile vertically."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 828.0,
+            "end": 830.0,
+            "text": " Now I have to fill 2xn-1."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 830.0,
+            "end": 832.0,
+            "text": " If I have done so much work"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 832.0,
+            "end": 834.0,
+            "text": " to place it vertically,"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 834.0,
+            "end": 836.0,
+            "text": " then I will have this work."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 836.0,
+            "end": 838.0,
+            "text": " What will be left?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 838.0,
+            "end": 840.0,
+            "text": " Fill 2xn-1."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 842.0,
+            "end": 844.0,
+            "text": " Can I say this indirectly?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 844.0,
+            "end": 846.0,
+            "text": " That now the function call I want to"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 846.0,
+            "end": 848.0,
+            "text": " to call is for n-1."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 848.0,
+            "end": 850.0,
+            "text": " Why? Because if my fn"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 850.0,
+            "end": 852.0,
+            "text": " value, what function I used to do"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 852.0,
+            "end": 854.0,
+            "text": " was to fill the floor of 2xn."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 854.0,
+            "end": 856.0,
+            "text": " What will my fn-1 function do?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 856.0,
+            "end": 858.0,
+            "text": " It will fill 2xn-1."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 858.0,
+            "end": 860.0,
+            "text": " What will my fn-2 do?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 860.0,
+            "end": 862.0,
+            "text": " It will fill 2xn-2."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 862.0,
+            "end": 864.0,
+            "text": " What will my f3 do?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 864.0,
+            "end": 866.0,
+            "text": " It will fill the floor of 2xn-3."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 866.0,
+            "end": 868.0,
+            "text": " So according to this logic,"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 868.0,
+            "end": 870.0,
+            "text": " if my flow size is 2xn-1"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 870.0,
+            "end": 872.0,
+            "text": " then I have to call for fn-1."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 872.0,
+            "end": 874.0,
+            "text": " I mean I have to call for the same function"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 874.0,
+            "end": 876.0,
+            "text": " but I will pass it in the value."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 876.0,
+            "end": 878.0,
+            "text": " Now n-1."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 878.0,
+            "end": 880.0,
+            "text": " So from here my first recursion"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 880.0,
+            "end": 882.0,
+            "text": " step has come out."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 882.0,
+            "end": 884.0,
+            "text": " What recursion step has come out?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 884.0,
+            "end": 886.0,
+            "text": " That I place my tile vertically"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 886.0,
+            "end": 888.0,
+            "text": " and then call for it."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 888.0,
+            "end": 890.0,
+            "text": " Then call for the same function."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 890.0,
+            "end": 892.0,
+            "text": " For filling n-1 floor."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 892.0,
+            "end": 894.0,
+            "text": " Because I have filled the 1 length of it"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 894.0,
+            "end": 896.0,
+            "text": " vertically and placed it."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 896.0,
+            "end": 898.0,
+            "text": " Now I have to place tiles in the other floors."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 898.0,
+            "end": 900.0,
+            "text": " This is my first logic."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 900.0,
+            "end": 902.0,
+            "text": " Now let's talk about the second logic."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 902.0,
+            "end": 904.0,
+            "text": " The second logic tells me"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 904.0,
+            "end": 906.0,
+            "text": " that if I"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 906.0,
+            "end": 908.0,
+            "text": " take a second choice, what choice would I"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 908.0,
+            "end": 910.0,
+            "text": " take, I would horizontally place my tile."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 910.0,
+            "end": 912.0,
+            "text": " As soon as I have placed my tile horizontally,"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 912.0,
+            "end": 914.0,
+            "text": " what would happen?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 914.0,
+            "end": 916.0,
+            "text": " It will fill this much area."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 916.0,
+            "end": 918.0,
+            "text": " As soon as I have placed my tile horizontally,"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 918.0,
+            "end": 920.0,
+            "text": " it will fill the 1 area here"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 920.0,
+            "end": 922.0,
+            "text": " and here it will fill 2 areas for me."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 922.0,
+            "end": 924.0,
+            "text": " So can I say that"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 924.0,
+            "end": 926.0,
+            "text": " as soon as I have placed my tile horizontally,"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 926.0,
+            "end": 928.0,
+            "text": " then why can't I place it vertically?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 928.0,
+            "end": 930.0,
+            "text": " Because the length of the tile"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 930.0,
+            "end": 932.0,
+            "text": " is bigger than 1."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 932.0,
+            "end": 934.0,
+            "text": " So the tile that I place vertically"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 934.0,
+            "end": 936.0,
+            "text": " will come out of all the floors."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 936.0,
+            "end": 938.0,
+            "text": " So if a tile is horizontally placed,"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 938.0,
+            "end": 940.0,
+            "text": " then the tile below it should be horizontally placed."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 940.0,
+            "end": 942.0,
+            "text": " So if a tile is horizontally placed,"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 942.0,
+            "end": 944.0,
+            "text": " then what should be the tile below it"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 944.0,
+            "end": 946.0,
+            "text": " that should be horizontally placed."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 946.0,
+            "end": 948.0,
+            "text": " So as soon as I have placed"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 948.0,
+            "end": 950.0,
+            "text": " 2 tiles horizontally,"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 950.0,
+            "end": 952.0,
+            "text": " then what will happen?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 952.0,
+            "end": 954.0,
+            "text": " How much length will be left?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 954.0,
+            "end": 956.0,
+            "text": " How much length will be left?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 956.0,
+            "end": 958.0,
+            "text": " The length of the floor will be left"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 958.0,
+            "end": 960.0,
+            "text": " to 2 equal to 2."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 960.0,
+            "end": 962.0,
+            "text": " This much area is covered by"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 962.0,
+            "end": 964.0,
+            "text": " horizontally."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 964.0,
+            "end": 966.0,
+            "text": " If this much is covered, then this much"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 966.0,
+            "end": 968.0,
+            "text": " will be the tile below it will be horizontal."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 968.0,
+            "end": 970.0,
+            "text": " What is left for me?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 970.0,
+            "end": 972.0,
+            "text": " This floor length is left"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 972.0,
+            "end": 974.0,
+            "text": " which I have to place now."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 974.0,
+            "end": 976.0,
+            "text": " Because it has surrounded the length,"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 976.0,
+            "end": 978.0,
+            "text": " then 2 minus from the end,"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 978.0,
+            "end": 980.0,
+            "text": " then I have left the length of the floor of the N-2."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 980.0,
+            "end": 982.0,
+            "text": " So can I say that"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 982.0,
+            "end": 984.0,
+            "text": " if FN had a function"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 984.0,
+            "end": 986.0,
+            "text": " that filled the 2 cross N"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 986.0,
+            "end": 988.0,
+            "text": " and F-1"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 988.0,
+            "end": 990.0,
+            "text": " had a function that filled the 2 cross N-1"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 990.0,
+            "end": 992.0,
+            "text": " floor length, then FN-2"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 992.0,
+            "end": 994.0,
+            "text": " would have a function that filled"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 994.0,
+            "end": 996.0,
+            "text": " the length of the N-2"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 996.0,
+            "end": 998.0,
+            "text": " and I have to call this function."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 998.0,
+            "end": 1000.0,
+            "text": " So can I say that what is my work?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1000.0,
+            "end": 1002.0,
+            "text": " I place horizontally."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1002.0,
+            "end": 1004.0,
+            "text": " My work is that I have placed horizontally."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1004.0,
+            "end": 1006.0,
+            "text": " Now I have to call"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1006.0,
+            "end": 1008.0,
+            "text": " with this same function"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1008.0,
+            "end": 1010.0,
+            "text": " in which I will pass value"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1010.0,
+            "end": 1012.0,
+            "text": " N-2. Because as soon as I placed horizontally"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1012.0,
+            "end": 1014.0,
+            "text": " this much area is filled"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1014.0,
+            "end": 1016.0,
+            "text": " and the floor of N-2"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1016.0,
+            "end": 1018.0,
+            "text": " is left to me."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1018.0,
+            "end": 1020.0,
+            "text": " The most crucial area of this question"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1020.0,
+            "end": 1022.0,
+            "text": " I have figured out"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1022.0,
+            "end": 1024.0,
+            "text": " that at every level I have a choice."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1024.0,
+            "end": 1026.0,
+            "text": " As soon as I have taken the choice of the vertical one"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1026.0,
+            "end": 1028.0,
+            "text": " what I have to do with that,"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1028.0,
+            "end": 1030.0,
+            "text": " after that I have to call the function for N-1"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1030.0,
+            "end": 1032.0,
+            "text": " because N-1 will be left."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1032.0,
+            "end": 1034.0,
+            "text": " And as soon as I have taken the horizontal choice"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1034.0,
+            "end": 1036.0,
+            "text": " after that I have to call the function for N-2"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1036.0,
+            "end": 1038.0,
+            "text": " because N-2 will be left."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1038.0,
+            "end": 1040.0,
+            "text": " And what will be the base case?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1040.0,
+            "end": 1042.0,
+            "text": " The base case will be for me for N is equal to 0 and 1"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1042.0,
+            "end": 1044.0,
+            "text": " in which my ways"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1044.0,
+            "end": 1046.0,
+            "text": " will always be equal to 1."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1046.0,
+            "end": 1048.0,
+            "text": " So what I have figured out?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1048.0,
+            "end": 1050.0,
+            "text": " I have figured out my base case"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1050.0,
+            "end": 1052.0,
+            "text": " and the work is to make a choice."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1052.0,
+            "end": 1054.0,
+            "text": " After making a choice"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1054.0,
+            "end": 1056.0,
+            "text": " now call your inner function."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1056.0,
+            "end": 1058.0,
+            "text": " What will be the value of the inner function?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1058.0,
+            "end": 1060.0,
+            "text": " When the inner function will take a vertical choice"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1060.0,
+            "end": 1062.0,
+            "text": " then N-1 will pass."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1062.0,
+            "end": 1064.0,
+            "text": " When the horizontal choice will take place"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1064.0,
+            "end": 1066.0,
+            "text": " then N-2 will pass."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1066.0,
+            "end": 1068.0,
+            "text": " Now I have to take both the choices."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1068.0,
+            "end": 1070.0,
+            "text": " I have taken the total number of ways."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1070.0,
+            "end": 1072.0,
+            "text": " So I will place it vertically"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1072.0,
+            "end": 1074.0,
+            "text": " and then horizontally."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1074.0,
+            "end": 1076.0,
+            "text": " So from here the ways of FN-1"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1076.0,
+            "end": 1078.0,
+            "text": " will be"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1078.0,
+            "end": 1080.0,
+            "text": " if I add FN-2 in the ways"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1080.0,
+            "end": 1082.0,
+            "text": " then the ways"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1082.0,
+            "end": 1084.0,
+            "text": " will be total"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1084.0,
+            "end": 1086.0,
+            "text": " for me."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1086.0,
+            "end": 1088.0,
+            "text": " So at every level"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1088.0,
+            "end": 1090.0,
+            "text": " I have to call one for FN-1"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1090.0,
+            "end": 1092.0,
+            "text": " and one for FN-2"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1092.0,
+            "end": 1094.0,
+            "text": " and the total number of"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1094.0,
+            "end": 1096.0,
+            "text": " ways I will have to return"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1096.0,
+            "end": 1098.0,
+            "text": " will be my total ways."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1098.0,
+            "end": 1100.0,
+            "text": " And I will return this only."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1100.0,
+            "end": 1102.0,
+            "text": " So I hope that this much part is clear for me."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1102.0,
+            "end": 1104.0,
+            "text": " What is clear?"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1104.0,
+            "end": 1106.0,
+            "text": " What is the base case? I have done the work."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1106.0,
+            "end": 1108.0,
+            "text": " I have to take the choice."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1108.0,
+            "end": 1110.0,
+            "text": " The answer from both the choices"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1110.0,
+            "end": 1112.0,
+            "text": " will be added"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1112.0,
+            "end": 1114.0,
+            "text": " and my final answer will be total ways."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1114.0,
+            "end": 1116.0,
+            "text": " And this question is very important."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1116.0,
+            "end": 1118.0,
+            "text": " And it comes in different ways."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1118.0,
+            "end": 1120.0,
+            "text": " It comes in different forms."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1120.0,
+            "end": 1122.0,
+            "text": " That is why companies like Amazon"
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1122.0,
+            "end": 1124.0,
+            "text": " ask this question again and again."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1124.0,
+            "end": 1126.0,
+            "text": " Let's write the code for this."
+        },
+        {
+            "number": "13",
+            "title": "Tiling Problem.mp4",
+            "start": 1126.0,
+            "end": 1128.0,
+            "text": " The code is very small. The code is very simple."
+        }
+    ],
+    "text": " The next problem is the tiling problem. We apply the tiles on the floor of the house. And the first one is very beautiful. We are doing something similar with the help of the code. We will be given the size of a floor, a first or a board. And we have to tell us how much tiles we can apply. So that the whole first is covered. So we have to apply the tiles on the first one. That is why the name of the problem is the tiling problem. So let's understand the problem first. We have given a board of 2xn. We can call it a board or a floor or a first. And how will it look? This first will look something like this. This side is our length 2. And this side is the length of n. I have given n in question. I have to write a function, a recursive function. The parameter which can solve the tiling problem is n. I have to pass n in that. And I have to fill this first with tiles. What is the size of the first? The size of the first is 2xn. That is its breadth and the length of n is this side. I have given the first and the tiles. I have given the size of a single tile. The size of a single tile is 2x1. How will this tile look? This tile will look something like this. The side of the tile is equal to 2 and this side is equal to 1. So this will be my entire tile. Now if I want, I can take the entire tile and put it on it. So what will happen? This tile will come here in this way. If I put another tile, it will come in this way. It will cover the entire. Why? Because this side of this is its length 2. And my first is its length 2. So this is a very important thing I have noted in the question. That my floor is also of 2xn and my tile is of 2x1. So this side is common in this. That is how I will put this tile on my floor. So this will cover my entire tile from one side. For the rest of the floor, I can put another tile and then another tile. So in this way, I can send tiles. Another way to send tiles is to send one tile like this and the other one like this. Then send the third tile like this and the fourth one like this. So I have to count the number of ways to tile the given board using 2x1 tiles. That is, I can send my tiles horizontally or vertically. It means I have sent my tile horizontally. First my tile will come like this. It has covered this much area. Second tile will come up like this on the floor. It has covered this much. Third one will come here. It has covered this much. Fourth one will come here. It has covered this much. I have sent these tiles horizontally. That is, I have kept them side by side. And because my tile's length is this side of my tile is 2. Then this side is also 2. This side is equal to 1. This side is equal to 1. This side is equal to 1. If one has covered this much and one has covered this much, then what is total part? This total part is equal to 2. Which is my floor length. So from here I understood that if I send my tiles horizontally, then I would need two tiles to cover one part of my tile. And what does it mean to send it vertically? It means I should send my tiles in this order. I mean I should send them long. So here the length of the tile is equal to 2. And this length is equal to 1. Now the tile that will be next can come like this. I mean I can send it vertically again. Or I can send it vertically once and then send it horizontally. I can send my tiles horizontally like this. So in this way I will get two tiles horizontally. So I can make a combination of my tiles in different fashion. I can send some tiles vertically, some tiles horizontally. And I have to fill my entire floor with different combinations of these tiles. And then I have to find out the total number of ways to fill my floor. So we can place two tiles horizontally or vertically. Now for this, first let's take an example. Let's take an example for n is equal to 3. Here n is equal to 3 means that the size of my floor or board will be 2 x 3. So my board will look something like this. Here this length is equal to 3 and this length is equal to 2. So what combinations will be left to fill tiles? The first combination can be that I should send three tiles one after another. That means if I send three tiles in this way, then this length will be equal to 2. This length of one tile is equal to 1. This length of one tile is equal to 1. This length of one tile is equal to 1. So my entire length will be equal to 3. So what will be this? The combination of 2 x 3. So one way can be that sending tiles is another way. In the second way, I can place my tile horizontally. That means first I placed it like this and then I sent another tile like this. So I used two tiles. Now how much area will be covered in this length? This length is equal to 2 because I have sent them horizontally while laying. This is equal to 1. This is equal to 1 again. So this total area is equal to 2. The entire area above is 2 x 2. I have to make it 3. So what I will do is I can place the next tile vertically. As soon as I have placed it vertically, this length is equal to 1. This length is equal to 2. So what happened? This total length of this one is 3. This total length of this one is 2. So this is 2 x 3. So this is my second way of sending tiles. What can be the third way here? The third way is that instead of placing the first tile horizontally, I place the first tile vertically. I will place it like this. Then I will send the two tiles horizontally. I have sent this one like this. This gap in the middle is what we have to ignore. The gap in the middle is like this. When we place the tiles, there will be no gap in the middle. We have to ignore this space in our figures. I just came to a clarity that what is the alignment of the tiles? They are vertically and horizontally. What is the alignment after that? That is why this gap is coming. So what I did in the third combination? I sent the first one vertically. Then I sent the two horizontally. So this length of this one is 1. Here is 2. This length of this one is 2. Here is 1. Here is 1. So how much total will be? This much area. So total will be equal to 3. This much is equal to 2. So this will be the final. I have 2 x 3. And this will be my way number 3. These are the three ways. There is no other way other than filling the 2 x 3 board with these tiles. So can I say that for n is equal to 3, my ways is equal to 3. I will summarize this a little more. I had a board of 2 x 3. I have to fill the tiles on which I have to place the tiles. The first way was that I place the three tiles vertically. Because this side of this tile is 2. When I place it vertically, this side will fill the entire floor. And this will fill the three tiles one by one. The second way was that I place the first two horizontally. So this side is 2 and this side is 1. So I will fill this entire side one by one. And these two will fill the two thirds of this. After that I will place the next tile vertically. So the upper part will be equal to 1. These two and these one. We will make these two together and make three. So this whole part will be covered. And there are two covers on the side. So this will be my second way. The third way is that I place this one vertically in front of the horizontal ones. So here my vertical side will come and here my two horizontal tiles will be covered completely. Now let's make a strategy for this. To write a function for this, we need to know three things. First of all we should know what is going to be our base case. Second we should know what we are going to do. Third we should know that we will call our inner function. So let's talk about the base case first. What can be the base case? The base case is that the size of the floor is given to 0. So what will be the size of the floor? 2x0. So 2x0 means that the floor will not be a line. Here it will be 2. The length will be equal to 0. So for the floor of 2x0, I have ways 1. Why did I write ways 1? Why didn't I write 0? These are not ways 0. Because here we will place no tiles. I mean there is no tile. There is a way to not place any tiles. That I don't have any tiles here. This is one way to satisfy my condition. That is why we take the 1 in this question. Next, what can we see? Next we can see that n is equal to 1. For n is equal to 1, the size of the floor will be 2x1. If I talk about 2x1, then my 2x1 will look something like this. In which this side will be equal to 2 and this side will be equal to 1. Now if I talk about the size of the tile, then my tile also looks something like this in the vertical format. That is, this side is 2 and this side is 1. And my tile size is 2x1. So there will be one way to place it. There will be one way. What will be the way? That I will directly place the vertical on the floor. If I try to place it horizontally, then what will happen? My tile will be placed in this way. And this part of my tile will be coming out of my floor. So what will happen? I will have to place it vertically. So if there is only one way, then how many ways will be there? Number of ways. That is, number of ways will be equal to 1. What should I take next? Next I will take n equal to 2. As soon as I take n, the size of my floor will be 2x2. The floor of 2x2 will look something like this. This side of the floor is also equal to 2. And this side of the floor is also equal to 2. Now 2x2 is the way to place the tiles. So what can be the ways? The first combination is that I will place the first tile vertically. That is, I placed the first tile in this way. And then I placed the second tile vertically. That is, I placed it in this way. So what happened? This side was 1. This side was 1. This side was 2 on both sides. So this side will be 2. This side will also be 2. So this is my one way. The second way is that I place the first tile horizontally. I placed it horizontally. Then I will have to place one more under it. Because as soon as you place it horizontally, another tile will have to be placed under it. If I place it horizontally, we can never place it vertically. Because the second vertical tile will start coming out of my floor. Because the length of the floor is 2. So in the second way, I placed it vertically. This side placed it vertically. The total becomes 2x2. And this is my second way. So there will be no other way to fill 2x2. So here, the total number of ways that come out of this tile are 2. So I will write that ways are equal to 2. And for n is equal to 3, I found out that my ways were equal to 3. So what can be the base case? My base case is that whenever my n is 0, I know that I will have one way to find out the easiest way. If n is 0, then there is one way to place the tile. And when n is value 1, there is one way to place the tile vertically. The logic of the next one now I have to figure out how the logic of the next one will be. How will my work be. So on every level of my recursion, I have a choice. Either I can place my tile vertically or I can place my tile horizontally. There are two choices. If I want to place the X number of tiles to fill the floor. So what can I see on every level? I can see that the tile I am placing here will be vertically placed in this order or it will be horizontally placed. So I have to take a choice on every level. Let's assume that the floor looks like this. This side is equal to 2 and this side is equal to my n. And what did I do? I took a choice vertically. I took a decision to place my tile like this. So what will happen? From this length, from this side, as soon as I placed my tile vertically, how much will it be placed? How much will it be placed? It will cover the length of the tile. So how much will be left? It will be equal to the length of the tile. What did I do? If I took the length of the tile then how much will be left? How much will be left? How much will be left? So as soon as I took the decision to place the tile vertically, what work did I have? I have a choice to fill the tile vertically. Now I have to fill 2xn-1. If I have done so much work to place it vertically, then I will have this work. What will be left? Fill 2xn-1. Can I say this indirectly? That now the function call I want to to call is for n-1. Why? Because if my fn value, what function I used to do was to fill the floor of 2xn. What will my fn-1 function do? It will fill 2xn-1. What will my fn-2 do? It will fill 2xn-2. What will my f3 do? It will fill the floor of 2xn-3. So according to this logic, if my flow size is 2xn-1 then I have to call for fn-1. I mean I have to call for the same function but I will pass it in the value. Now n-1. So from here my first recursion step has come out. What recursion step has come out? That I place my tile vertically and then call for it. Then call for the same function. For filling n-1 floor. Because I have filled the 1 length of it vertically and placed it. Now I have to place tiles in the other floors. This is my first logic. Now let's talk about the second logic. The second logic tells me that if I take a second choice, what choice would I take, I would horizontally place my tile. As soon as I have placed my tile horizontally, what would happen? It will fill this much area. As soon as I have placed my tile horizontally, it will fill the 1 area here and here it will fill 2 areas for me. So can I say that as soon as I have placed my tile horizontally, then why can't I place it vertically? Because the length of the tile is bigger than 1. So the tile that I place vertically will come out of all the floors. So if a tile is horizontally placed, then the tile below it should be horizontally placed. So if a tile is horizontally placed, then what should be the tile below it that should be horizontally placed. So as soon as I have placed 2 tiles horizontally, then what will happen? How much length will be left? How much length will be left? The length of the floor will be left to 2 equal to 2. This much area is covered by horizontally. If this much is covered, then this much will be the tile below it will be horizontal. What is left for me? This floor length is left which I have to place now. Because it has surrounded the length, then 2 minus from the end, then I have left the length of the floor of the N-2. So can I say that if FN had a function that filled the 2 cross N and F-1 had a function that filled the 2 cross N-1 floor length, then FN-2 would have a function that filled the length of the N-2 and I have to call this function. So can I say that what is my work? I place horizontally. My work is that I have placed horizontally. Now I have to call with this same function in which I will pass value N-2. Because as soon as I placed horizontally this much area is filled and the floor of N-2 is left to me. The most crucial area of this question I have figured out that at every level I have a choice. As soon as I have taken the choice of the vertical one what I have to do with that, after that I have to call the function for N-1 because N-1 will be left. And as soon as I have taken the horizontal choice after that I have to call the function for N-2 because N-2 will be left. And what will be the base case? The base case will be for me for N is equal to 0 and 1 in which my ways will always be equal to 1. So what I have figured out? I have figured out my base case and the work is to make a choice. After making a choice now call your inner function. What will be the value of the inner function? When the inner function will take a vertical choice then N-1 will pass. When the horizontal choice will take place then N-2 will pass. Now I have to take both the choices. I have taken the total number of ways. So I will place it vertically and then horizontally. So from here the ways of FN-1 will be if I add FN-2 in the ways then the ways will be total for me. So at every level I have to call one for FN-1 and one for FN-2 and the total number of ways I will have to return will be my total ways. And I will return this only. So I hope that this much part is clear for me. What is clear? What is the base case? I have done the work. I have to take the choice. The answer from both the choices will be added and my final answer will be total ways. And this question is very important. And it comes in different ways. It comes in different forms. That is why companies like Amazon ask this question again and again. Let's write the code for this. The code is very small. The code is very simple."
+}
