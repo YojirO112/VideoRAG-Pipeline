@@ -1,0 +1,10 @@
+I am teaching recursion part of the DSA playlist. Here are video 
+subtitle chunks containing video title, video number, start time in seconds, end time in 
+seconds, the text in that :
+
+[{"title":"Friends Pairing Problem.mp4","number":"16","start":368.52,"end":371.8,"text":" these things are usually being taught during the preparation of JEE,"},{"title":"Print x to the power n (Optimized) .mp4","number":"12","start":306.8,"end":308.8,"text":" What I will do in the same class?"},{"title":"Friends Pairing Problem.mp4","number":"16","start":837.36,"end":838.24,"text":" how to write in small,"},{"title":"Print numbers in decreasing order.mp4","number":"2","start":172.08,"end":174.24,"text":" We have made a class for recursion basics."},{"title":"Friends Pairing Problem.mp4","number":"16","start":301.28,"end":307.0,"text":" And I give a special tip that in math, in 11th and 12th because there are many majority of the students,"}]
+-----------------------------------------
+where is CSS taught
+User asked this question related to the video chunks you have to answer wehre and how much
+content is taught in which video (in which video and at what timestamp) asn guide the user to go to that
+particular video. If user asks unrelated question, tell h im that you can only answer questions related to the course

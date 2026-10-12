@@ -42,6 +42,7 @@ import json
 import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
+import joblib
 
 def create_embedding(text_list, batch_size=32):
     """
@@ -87,21 +88,7 @@ for json_file in jsons:
         chunk['embedding'] = embeddings[i]
         chunk_id += 1
         my_dicts.append(chunk)
-    break
 
 df = pd.DataFrame.from_records(my_dicts)
-print(df)
-incoming_query = input("Ask a question: ")
-question_embedding = create_embedding([incoming_query])[0]
-print(question_embedding)
-
-# find similarities of question embedding with other embeddings
-# print(np.vstack(df['embedding'].values))
-# print(np.vstack(df['embedding']).shape) 
-similarities = cosine_similarity(np.vstack(df['embedding'].values), [question_embedding]).flatten()
-print(similarities)
-top_results = 3
-max_ind = similarities.argsort()[::-1][0:top_results]
-print(max_ind)
-new_df = df.loc[max_ind]
-print(new_df[["title", "number", "text"]])
+# save this dataframe
+joblib.dump(df, "embeddings.joblib")
